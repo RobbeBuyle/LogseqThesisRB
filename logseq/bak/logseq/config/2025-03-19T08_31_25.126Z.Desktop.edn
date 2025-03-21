@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["klad 📝" "Klad" "🏛️ bibliotheek" "dagitty" "bibliotheek"]
+ :favorites ["Klad" "🏛️ bibliotheek" "dagitty" "bibliotheek"]
 
  ;; Set flashcards interval.
  ;; Expected value:

@@ -1,5 +1,5 @@
 html:not(.is-native-android) {
-  font-family: Inter, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", Oxygen, Ubuntu, Cantarell, "Segoe UI Emoji", "Open Sans", sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", Oxygen, Ubuntu, Cantarell, "Segoe UI Emoji", "Open Sans", sans-serif !important;
 }
 
 #main-content-container {
@@ -13,9 +13,9 @@ html:not(.is-native-android) {
   font-size: 0.75em;
 }
 
-h1.title {
-  font-family: "NTm"
-}
+/*h1.title {
+  font-family: "NType 82";
+}*/
 
 ::-webkit-scrollbar-thumb {
   border-radius: 6px;

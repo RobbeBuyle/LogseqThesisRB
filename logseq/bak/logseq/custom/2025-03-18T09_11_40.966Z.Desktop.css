@@ -13,6 +13,10 @@ html:not(.is-native-android) {
   font-size: 0.75em;
 }
 
+h1.title {
+  font-family: "NType 82";
+}
+
 ::-webkit-scrollbar-thumb {
   border-radius: 6px;
 }

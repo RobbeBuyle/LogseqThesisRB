@@ -1,5 +1,6 @@
-- [[Directionaliteit]]
-	- **The Association of Sleep and Pain: An Update and a Path Forward** ![1-s2.0-S1526590013011991-main.pdf](../assets/1-s2.0-S1526590013011991-main_1739882722692_0.pdf)
+- [[Directionality]]
+  collapsed:: true
+	- **The Association of Sleep and Pain: An Update and a Path Forward** ![1-s2.0-S1526590013011991-main.pdf](../assets/1-s2.0-S1526590013011991-main_1739882722692_0.pdf) [[1]]
 	  collapsed:: true
 		- DOI: [https://doi.org/10.5665/sleep.6026](https://doi.org/10.5665/sleep.6026)
 		- ((67b48106-9cd2-42cf-a249-7fd53d5fa468))
@@ -47,18 +48,39 @@
 		-
 		-
 		-
-	- **The Bidirectional Relationship Between Sleep Complaints and Pain: Analysis of Data from a Randomized Trial** ![nihms791864.pdf](../assets/nihms791864_1740069377482_0.pdf)
-	  collapsed:: true
+	- **The Bidirectional Relationship Between Sleep Complaints and Pain: Analysis of Data from a Randomized Trial** ![nihms791864.pdf](../assets/nihms791864_1740069377482_0.pdf) [[2]]
 		- DOI: https://doi.org/10.1037/hea0000245
-		- ((67bde1e6-d268-4953-961c-c1cac41a27cc)) [[Directionaliteit]]
+		- ((67bde1e6-d268-4953-961c-c1cac41a27cc)) [[Directionality]]
 		- ((67bde2b1-50ba-479e-8e98-2761ed4d5383))
 			- ((67bde2c0-755e-4d61-8615-bbeec304b502)) -> slaap meting
 		- ((67bde3d9-3c5e-41c9-8da5-b5a70c47eb63))
 		- ((67bde439-3ecc-4b90-a222-cf3e7e7ada59))
 		- ((67bde46b-3882-4d8f-8dc9-bf105eb6d538))
 		- ((67bde4bc-068f-4064-a80e-ef83968169be))
+	- ### The Role of Anxiety and Depression in Shaping the Sleep–Pain Connection in Patients with Nonspecific Chronic Spinal Pain and Comorbid Insomnia: A Cross-Sectional Analysis ![jcm-13-01452-v2.pdf](../assets/jcm-13-01452-v2_1742378954089_0.pdf) [[3]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.3390/jcm13051452
+		- ((67da97f5-7764-4994-a0e4-bc1d02b710f3))
+		- ((67da9808-a2de-4c95-9ad5-4ad617ef4108)) [[Definition insomnia]]
+		- ((67da982b-4d26-4e2a-bc63-3c96d6f8367d)) [[Directionality]]
+		- ((67da9849-1514-4f20-98e4-0d3cbb0aaa98)) [[Hyperalgesia]]
+		- ((67da9863-b0c0-46ee-b474-b5352002ae9c)) [[Directionality]]
+		- ((67da9880-b67c-442b-814f-fbd5a868a3ad)) [[Depression]] [[Anxiety]]
+		- ((67da9a56-9be8-4165-83d4-c42e28129146))
+		- ((67da9a63-60d4-4564-97f9-7fcf55886c5d))
+		- ((67da9a73-e1f4-4bf2-b2c8-f513901a75f1))
+		- ((67da9b47-f333-49d3-88f2-878819f33167)) [[Tension]]
+		- ((67da9b52-89f0-41b1-82e6-be344e425392)) [[Tension]]
+		- ((67da9ba8-92fc-43b4-ac6c-66811acb5b42)) [[Sleep quality]]
+		- ((67da9e9a-aded-4c72-8909-26309539451b)) [[Anxiety]] [[Depression]]
+			- ((67da9ec7-9e9f-48fd-9755-9a7372cc70c1))
+		- ((67da9ef1-edce-4812-8cf4-6dac4fa475b7)) [[Fatigue]]
+		- ((67da9f4d-de03-4124-a815-b6b35dac4676)) [[Sleep disturbance]] [[Chronic pain]] [[Sleep quality]]
+		- ((67daa0bc-5a98-43ae-95d6-f59d9485ce70)) [[Hyperalgesia]]
+		-
 - [[ML 🤖]]
-	- **Machine learning suggests sleep as a core factor in chronic pain** ![machine_learning_suggests_sleep_as_a_core_factor.10.pdf](../assets/machine_learning_suggests_sleep_as_a_core_factor.10_1740498278653_0.pdf)
+  collapsed:: true
+	- **Machine learning suggests sleep as a core factor in chronic pain** ![machine_learning_suggests_sleep_as_a_core_factor.10.pdf](../assets/machine_learning_suggests_sleep_as_a_core_factor.10_1740498278653_0.pdf) [[4]]
 	  collapsed:: true
 		- DOI: https://doi.org/10.1097/j.pain.0000000000002002
 		- ((67bed64a-3fa6-4a8b-9c49-83baad7fb38b))
@@ -68,9 +90,9 @@
 		- ((67bed993-e3a2-4927-bb79-b8fbada61c89)) [[Inflammation]]
 		- ((67bed9a2-4a06-4838-97eb-7c361dec13f4))
 		-
-	- TODO **A classification algorithm to predict chronic pain using both regression and machine learning – A stepwise approach** ![1-s2.0-S0897189721001117-main.pdf](../assets/1-s2.0-S0897189721001117-main_1740595044173_0.pdf)
-- [[Mechanismes]]
-	- **Sleep and pain: recent insights, mechanisms, and future directions in the investigation of this relationship** ![s00702-019-02067-z.pdf](../assets/s00702-019-02067-z_1739906849931_0.pdf)
+	- TODO **A classification algorithm to predict chronic pain using both regression and machine learning – A stepwise approach** ![1-s2.0-S0897189721001117-main.pdf](../assets/1-s2.0-S0897189721001117-main_1740595044173_0.pdf) [[5]]
+- [[Mechanisms]]
+	- **Sleep and pain: recent insights, mechanisms, and future directions in the investigation of this relationship** ![s00702-019-02067-z.pdf](../assets/s00702-019-02067-z_1739906849931_0.pdf) [[6]]
 	  collapsed:: true
 		- DOI: https://doi.org/10.1007/s00702-019-02067-z
 		- ((67b4dfd0-6d1a-4427-a549-2a3a15fddfb6))
@@ -80,7 +102,7 @@
 			- ((67b4e126-f249-459f-9142-29e190392c57))
 		- ((67b4e241-82ef-4620-a562-18d407e28294))
 		- ((67b4e278-8d3c-42b6-907c-69df46d64edf))
-		- ((67b4e299-255b-42ba-adcb-dbd3616718da)) [[Directionaliteit]]
+		- ((67b4e299-255b-42ba-adcb-dbd3616718da)) [[Directionality]]
 		- ((67b4e3e3-23b5-45a4-8477-53ee7cce67dd))
 			- kan reversed worden door een dutje
 		- TODO TE LEZEN OVER DIRECTIONALITEIT ((67b4e588-4e18-44d4-aa36-fd16e035ef34))
@@ -119,14 +141,14 @@
 				- ((67b63ad4-8dc5-4f42-a8df-8f7ac4b5dc02))
 				- ((67b63ae5-35d7-4785-896f-a56ffded9060))
 				- ((67b63af2-c97a-41d1-b5fc-9c81e351bee8)) -> DOEL!
-	- **The Pain of Sleep Loss: A Brain Characterization in Humans** ![2291.full.pdf](../assets/2291.full_1740069356331_0.pdf)
+	- **The Pain of Sleep Loss: A Brain Characterization in Humans** ![2291.full.pdf](../assets/2291.full_1740069356331_0.pdf) [[7]]
 	  collapsed:: true
 		- DOI: https://doi.org/10.1523/jneurosci.2408-18.2018
 		- ((67bd9252-5436-438a-a308-022bbba66e5a))
 		- ((67bd927d-4e75-4347-a117-c1089f17cb25))
-		- ((67bd928f-e454-48c1-849d-231244f78165)) [[Temperatuur]] -> lagere pijn threshold
+		- ((67bd928f-e454-48c1-849d-231244f78165)) [[Temperature]] -> lagere pijn threshold
 		- ((67bd92eb-f32d-448e-a734-4359c9b5ceac))
-		- ((67bd930e-b90e-4d47-86f1-a4244c38acbd)) [[Directionaliteit]]
+		- ((67bd930e-b90e-4d47-86f1-a4244c38acbd)) [[Directionality]]
 		- ((67bd938d-064a-4e1a-a463-cde44c8d9d71)) [[Somatosensory cortex]]
 		- ((67bd93b0-73ce-4b34-9065-7146ed6a1d35)) [[Corticolimbic regions]]
 		- ((67bd93d6-9c7b-4817-81a3-fe48957d728e)) [[NAcc]] -> modulatie van pijn op moment zelf
@@ -149,7 +171,7 @@
 			- ((67bd9ddc-418c-43ef-b52e-bd837f14ddde))
 		- ((67bd9e05-ff29-4a3b-bf71-196962633f5a)) -> mTurk vragenlijst
 		- ((67bd9e2b-7e9c-47f4-a9f8-4b83b6feaf5b))
-		- ((67bd9e36-6c40-4b3a-804f-5f300bc419b4)) -> [[Slaapduur]]
+		- ((67bd9e36-6c40-4b3a-804f-5f300bc419b4)) -> [[TST]]
 		- ((67bd9e7d-ac7b-4ec5-a245-c71cf60b7a4b))
 			- ((67bd9e90-df87-4058-911a-ebf3e2b59954))
 			- ((67bd9ec1-d12d-4e0a-b92b-a542654f5656))
@@ -159,12 +181,13 @@
 		- ((67bd9fef-6f8b-4af9-834f-07cbf8255f1d))
 		-
 		-
-- [[Mediatie]]
-	- **Sleep and Pain A Systematic Review of Studies of Mediation** ![sleep_and_pain__a_systematic_review_of_studies_of.14.pdf](../assets/sleep_and_pain_a_systematic_review_of_studies_of.14_1740044108424_0.pdf)
+- [[Mediation]]
+  collapsed:: true
+	- **Sleep and Pain A Systematic Review of Studies of Mediation** ![sleep_and_pain__a_systematic_review_of_studies_of.14.pdf](../assets/sleep_and_pain_a_systematic_review_of_studies_of.14_1740044108424_0.pdf) [[8]]
 	  collapsed:: true
 		- DOI: https://journals.lww.com/clinicalpain/fulltext/2019/06000/sleep_and_pain__a_systematic_review_of_studies_of.14.aspx
 		- ((67b6f7cc-bcf7-4243-82cc-907d0829094a))
-		- ((67b6f7e1-5d8d-4dfa-86ec-475fc4937826)) [[Directionaliteit]]
+		- ((67b6f7e1-5d8d-4dfa-86ec-475fc4937826)) [[Directionality]]
 		- ((67b6f865-813b-4d35-937f-7798f90145bd))
 		- ((67b704a7-b059-4b4b-8d2b-90191f13c332))
 		- putated = waarschijnlijk/ aanneembaar
@@ -188,8 +211,24 @@
 		- ((67b756d4-dcd1-472c-8d30-69cf6b7ca5a9))
 		- ((67b75790-1dc1-4102-baed-31586942e086)) [[Serotonine]] [[Inflammation]]
 		-
+	- **Sleep quality as a mediator of the relation between depression and chronic pain: a systematic review and meta-analysis** #Meta-analyse ![1-s2.0-S000709122300123X-main.pdf](../assets/1-s2.0-S000709122300123X-main_1741250448502_0.pdf) [[9]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1016/j.bja.2023.02.036
+		- ((67c96485-0499-4288-a170-3ab1e6897168))
+		- ((67c964c9-efbd-454d-a4c1-c86c16cbc1e5)) [[Sleep quality]]
+		- ((67c964df-9130-41f0-974c-377bdbc1d3f8)) [[Sleep disturbance]]
+			- ((67c9654a-6017-411c-9d23-c028a28f2baf))
+		- ((67c96558-1d0a-4488-92f2-27d2fbe66a9e)) [[Depression]]
+		- ((67c9659f-0204-4c73-a4c8-31e13b8d33d5)) subjectieve data #Hiaat
+		- ((67c965bd-422c-47e2-82e5-1a8ea893cdb4))
+		- ((67c965e9-08d4-452f-a29d-79d67902bb06))
+		- ((67c9664f-c28b-4485-91ec-9855dc2d0c1a)) #Hiaat
+		- ((67c9675b-ff15-4b52-9326-b553bfe7d534))
+		- ((67c96770-a8bd-4d50-8b7d-6941e1d38e29)) #Hiaat
+		- ((67c967a2-cdfb-4efc-9ef1-4b23129addc9)) [[Neurotransmitter]]
+		-
 - [[Stavaza]]
-	- **Sleep and Pain: Interaction of Two Vital Functions** ![painrev.pdf](../assets/painrev_1740069362049_0.pdf)
+	- **Sleep and Pain: Interaction of Two Vital Functions** ![painrev.pdf](../assets/painrev_1740069362049_0.pdf) [[10]]
 	  collapsed:: true
 		- ⚠️ oud artikel!
 		- DOI: https://doi.org/10.1055/s-2005-867079
@@ -197,21 +236,21 @@
 		- ((67bdbd47-f67b-460e-aca4-4707b4b45145))
 		- ((67bdbd6c-a7cd-420c-8cd8-5f3fb0d33388))
 		- ((67bdbd80-5cc7-419d-8b01-cc6db8c34ab9))
-	- **Effects of sleep changes on pain-related health outcomes in the general population: A systematic review of longitudinal studies with exploratory meta-analysis** ![1-s2.0-S1087079217300886-main.pdf](../assets/1-s2.0-S1087079217300886-main_1740069372301_0.pdf)
+	- **Effects of sleep changes on pain-related health outcomes in the general population: A systematic review of longitudinal studies with exploratory meta-analysis** ![1-s2.0-S1087079217300886-main.pdf](../assets/1-s2.0-S1087079217300886-main_1740069372301_0.pdf) [[11]]
 	  collapsed:: true
 		- DOI: https://doi.org/10.1016/j.smrv.2017.08.001
 		- ((67bdcbc2-32d0-4219-bacb-4a0657506ae5))
 		- ((67bdcbca-0549-41d5-aa27-f678eb807a05)) [[Inflammation]]
 		- ((67bdcbd7-2526-4635-8024-8a9027942d42))
-		- ((67bdcc5b-5455-424a-a3c2-1d85590b7971)) [[Directionaliteit]]
+		- ((67bdcc5b-5455-424a-a3c2-1d85590b7971)) [[Directionality]]
 			- ((67bdcc8f-e0b6-4c4d-b7e0-d078c80b0c05))
-		- ((67bdccb5-2df2-42a0-835c-a6000fff817e)) [[Slaapkwaliteit]]
+		- ((67bdccb5-2df2-42a0-835c-a6000fff817e)) [[Sleep quality]]
 		- ((67bdccd3-7e91-48a9-bd67-3df4d0b2a7d0)) [[Pre-sleep pain]]
 			- ((67bdcce7-12fe-49ff-b97f-ba36782cb554)) => dus subjectieve foute interpretatie
 			- ((67bdcd09-ca95-44ad-9931-d14e88a94746))
 		- ((67bdcd26-358c-43e5-9f18-2a86e9094dc8))
 		- ((67bdcd3e-4e1f-42ef-abf7-ae8703918133)) [[Fibromialgie]]
-		- ((67bdcd5d-cd8e-4948-83d7-06855127b0a2)) [[Slaapkwaliteit]]
+		- ((67bdcd5d-cd8e-4948-83d7-06855127b0a2)) [[Sleep quality]]
 		- ((67bdcd79-6444-41c8-9d8a-683771b315b4))
 		- ((67bdcd9a-900a-4a2a-910d-ddf6a47d8e27)) -> repeated measures nodig
 		- ((67bdcdd6-dcee-4129-8163-3581ccd6638e)) [[Inflammation]]
@@ -228,7 +267,7 @@
 		- ((67bdd9d8-221d-466d-8f5b-caf99d47d14f)) [[Inflammation]]
 		- ((67bdda0e-3c39-4d8f-8e51-e6509b927417)) [[Stress]]
 			- ((67bdda1e-f59d-4fdb-b758-1830f3c49448))
-		- ((67bdda57-9a16-4b82-8cec-5dc7119b5199)) [[Inflammation]] [[Slaapkwaliteit]] -> slaapduur niet!
+		- ((67bdda57-9a16-4b82-8cec-5dc7119b5199)) [[Inflammation]] [[Sleep quality]] -> slaapduur niet!
 		- ((67bdda84-78ad-44b1-b6de-962ab9613ef7))
 		- ((67bddab6-3040-44c0-88d4-279cd73f0ef5))
 		- ((67bddac2-0326-45b1-b44e-5ec6c4ed739c))
@@ -240,12 +279,140 @@
 		- ((67bddc2d-1ddd-4b6e-895a-15b89b75a1f3))
 		- ((67bddc7b-5792-42b5-95e0-c525bf7ec5ae))
 		- ((67bddcca-4be0-4203-8ffa-882f6acbb0c1)) [[Inflammation]]
-	- (⚠️ uncorrected proof)![j.chest.2018.07.019.pdf](../assets/j.chest.2018.07.019_1740069374600_0.pdf)
-- [[Sensitiviteit]]
-	- **Sleep and pain sensitivity in adults** ![sleep_and_pain_sensitivity_in_adults.10.pdf](../assets/sleep_and_pain_sensitivity_in_adults.10_1740069365478_0.pdf)
+	- (⚠️ uncorrected proof)![j.chest.2018.07.019.pdf](../assets/j.chest.2018.07.019_1740069374600_0.pdf) [[12]]
+	- **A Systematic Review of Sleep in Pediatric Pain Populations** ![nihms-428028.pdf](../assets/nihms-428028_1741250501631_0.pdf) [[13]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1097/DBP.0b013e31827d5848
+		- ((67d1b78d-0d02-40db-ace3-3ee80c3fcfa5)) [[Inflammation]] [[Hypoxemia]]
+		- ((67d1b7e0-f508-4979-900e-8adcdbdba991)) [[Mood]] [[Affect]] [[Cognitive functioning]]
+		- ((67d1b813-805f-47da-acd9-36dbebf3394e)) [[Inflammation]]
+		- ((67d1b826-626c-4734-9a90-c80b4eea3489)) [[Pain sensitivity]]
+		- ((67d1b913-d609-44b2-b774-ca5fdcb28eb2))
+		- ((67d1b924-76c4-4add-ac8e-d5a50059b6d8)) [[Directionality]] [[Pain tolerance]]
+		- ((67d1b99a-b5aa-44b7-a7a7-013fa20edbcb)) oude literatuur
+		- [[Artritis]]
+			- ((67d1b9f7-0acb-4b55-a8ab-d09db64b2d45)) [[Artritis]]
+			- ((67d1ba49-7f2f-4ff5-abbb-485ac247d771)) [[Anxiety]] [[Sleep disturbance]] [[Parasomnia]] [[OSA]] [[Sleepiness]]
+			- ((67d1baa2-80f7-410a-b330-259d517663be)) [[SOL]]
+			- ((67d1bab3-93ed-406e-a72f-17fb3c9ba9fd)) [[SE]]
+			- ((67d1bac4-299b-427b-bd4b-512e1e3d6351)) [[RLS]]
+			- ((67d1bae2-204e-4649-8c79-538715d45e44)) [[SWS]]
+		- [[Sickle Cell Disease]]
+			- ((67d1bb2a-52e0-4985-85ab-d95b6f73431f))
+			- ((67d1bb3d-4240-48a0-8211-364b10abca52)) [[SOL]] [[Sleep disturbance]] [[Sleepiness]]
+			- ((67d1bb63-23de-444b-8490-260e825edf36)) -> is dit wel een valide manier van meten?
+			- ((67d1bbc3-0a8d-41b1-9e17-0ba970cde65b)) [[OSA]] [[Hypoxemia]]
+			- ((67d1bbf2-7834-46e8-b916-768eed3a84c1))
+			- ((67d1bc02-e317-449b-9cd2-7bffe4ef0051)) [[RLS]]
+		- [[Headache]]
+			- ((67d1c213-925c-41be-9d41-1feb60a35745)) [[Headache]]
+			- ((67d1c230-8011-4bf9-913a-1c5804f61028)) [[Sleepiness]] [[SOL]] [[Sleep disturbance]]
+			- ((67d1c259-7013-4aaa-b243-ef7ef4929655)) [[SOL]] [[Sleepiness]] [[TST]]
+			- ((67d1c284-fd8a-4c21-94ea-b10b33dbfcd1)) [[Wake]]
+			- ((67d1c2a9-fd91-48a6-a1b8-2436f715ebe8)) [[TST]] [[SOL]] [[Arousal]]
+			- ((67d1c2d6-9a68-494a-afa5-e200e40237be)) [[SDB]]
+		- ((67d1c2fe-1d93-480d-8fb8-23a86a5563af)) [[Chronic pain]]
+		- ((67d1c318-f611-40bd-8aa6-e446c332d620)) [[Arousal]] [[Sleep-hygiene]]
+		- ((67d1c359-2edf-4ff9-acfb-c8a0314a5a74)) [[SE]] [[Nocturnal awakening]] [[TST]]
+		- ((67d1c386-490c-4c64-b271-7d139780f2c2)) -> toont aan dat verschillende slaapmetingen verschillende conclusies kunnen geven
+		- ((67d1c3ae-a296-4e5d-8e80-872bd864e2c2)) [[Fibromialgie]] [[Sleep architecture]]
+		- ((67d1c3de-edd2-4449-a353-9164b83e10cc)) -> mogelijke factor voor in dagitty
+		- ((67d1c3f6-3b87-4938-a3f7-527059867af7)): andere 3rde variabele
+		- ((67d1c416-fe43-4e31-8497-b285c3e40d67)) [[Directionality]]
+		- ((67d1c445-670e-4686-9f48-7af7cd847e99))
+			- ((67d1c455-8003-4914-8bc9-130aea905b7b))
+			- ((67d1c462-76e9-42e0-8f11-ae8a342b4984))
+			- ((67d1c474-5d2e-4fd5-92a9-172648437583)) [[Headache]] [[Parasomnia]] [[Bruxism]]
+		- ((67d1c49a-8134-4ca8-9486-1e7198897484)) [[Directionality]]
+			- ((67d1c4aa-a893-4e39-9745-2be8ef6a8753))
+			- ((67d1c4bd-6dbb-475d-9e19-9fba0a826319))
+		- ((67d1c4fc-2275-49fc-963e-5a6a28d4657d))
+		- ((67d1c51d-d2ad-49ee-93b4-f941b855e81c)) [[Depression]] [[Mood]] [[Pain intensity]]
+			- ((67d1c54e-2667-48d1-b4d4-007404f0442d))
+		- ((67d1c565-17f6-452d-a5c1-f739295aa410)) [[Mood]]
+		- ((67d1c579-103c-4402-9e22-1e882e9ba8dd)) [[Depression]]
+		- ((67d1c595-bf7e-46bf-80ca-52beb371eb31)) [[Mediation]]
+		- ((67d1c5a4-81dd-411e-bd5b-1a2da11c243c)) [[Affect]]
+		- ((67d1c5c3-332e-4f4f-b48f-d9f858f058e9)) [[Adolescents]]
+		- ((67d1c5f8-37e4-4660-a78d-3c536b7f3aba)) [[Gender]]
+		- ((67d1c7bf-dc7d-4f97-ad61-d44bef62e392)) [[Socio-economics]]
+		- ((67d1c819-7d0f-4ac7-aa84-e9731e636ce8)) [[Executive functions]]
+		- ((67d1c830-b073-4856-822f-c2cb29441378)) [[QoL]]
+		- ((67d1c849-82d6-4a5d-8e4a-5035a8c4b736)) [[SE]] [[Naps]] [[TST]]
+		- ((67d1c8d5-d8c7-43b0-843b-d0116a0aa8f5))
+		-
+		-
+		-
+		-
+	- ### Nonpharmacological Treatments of Insomnia for Long-Term Painful Conditions: A Systematic Review and Meta-analysis of Patient-Reported Outcomes in Randomized Controlled Trials ![sleep.5158.pdf](../assets/sleep.5158_1741792357421_0.pdf) [[14]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.5665/sleep.5158
+		- ((67d9cc04-099c-4399-b9a5-2bec0019a022)) [[Depression]] [[Anxiety]] [[Substance misuse]]
+		- ((67d9cc26-a03a-4e4d-8cce-46f6538028db)) [[Prevalence]]
+		- ((67d9cc43-a1f4-4122-bdb4-7ff14d28b726)) [[Inflammation]] [[EPM]] [[Pain tollerance]]
+		- ((67d9cc6b-37d1-4e19-bbe2-d43faa6caba8)) [[Directionality]]
+		- ((67d9cc84-8ef8-4d33-b2de-8d5cf97ef4ac))
+		- ((67d9cef2-8f63-4da0-9d54-5a361a925551)) [[Sleep quality]]
+			- ((67d9cf0f-d608-4064-8899-c7d5ae91d34c))
+		- ((67d9cf21-4ccf-49cb-a92f-4bc6a8c53e8f)) [[Cancer]]
+		- ((67d9cf34-a846-459c-8a1f-7fd074693485)) [[Treatment modality]]
+		- ((67d9cf56-437b-4b65-ba3f-d2cd47f7053f))
+		- ((67d9cf68-ff96-4555-bee1-8316a974e414)) [[Fatigue]]
+		- ((67d9cf7d-773d-4149-becf-a91798a9811c)) [[Depression]]
+		- ((67d9cf93-b8b1-4b98-9e63-aaae35872f06)) [[Depression]] [[Treatment modality]]
+		- ((67d9cfb4-33bf-44a0-bd9c-c73602dff0e7)) [[Depression]] [[Cancer]]
+		- ((67d9cfc4-c7fe-4684-a100-1d5207e83d17)) [[Anxiety]]
+		- ((67d9cfe5-1ffb-4ba6-823b-7bdc87a1338c)) [[Treatment modality]]
+		- ((67d9d1ed-0bb2-407f-aeea-ffb50155aec8))
+		- ((67d9d218-7423-4e75-a5f6-e6e41bab9f7c)) [[Serotonine]] [[Dopamine]]
+		- ((67d9d233-2e53-4cd1-ae73-942b64526d41)) [[Inflammation]]
+		- ((67d9d24c-37d8-432a-960a-0e46baa2c1e6)) [[Pain intensity]]
+		-
+		-
+	- ### Objective and subjective sleep characteristics in hospitalized older adults and their associations to hospital outcomes ![frsle-03-1346642.pdf](../assets/frsle-03-1346642_1742411311660_0.pdf) [[15]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.3389/frsle.2024.1346642
+		- ((67dbc86d-acad-493d-bbc1-d58b54fe9871))
+		- ((67dbc912-2778-4c19-93a9-b5f63df44ca6))
+		- ((67dbcac6-b9a5-4a8f-908f-18bd0e046e25))
+		-
+	- ### Relationship, differences, and agreement between objective and subjective sleep measures in chronic spinal pain patients with comorbid insomnia: a cross-sectional study ![relationship,_differences,_and_agreement_between.15.pdf](../assets/relationship,_differences,_and_agreement_between.15_1742411318330_0.pdf) [[16]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1097/j.pain.0000000000002901
+		- ((67db19f7-fdca-4248-8c72-a87687e01e0e)) [[Depression]] [[Anxiety]]
+		- ((67db1a10-feb2-4a47-b37b-8cb6f5b08059)) [[Directionality]]
+		- ((67db1a2f-7bef-47a8-a2cc-c0038a0a28a9)) [[Sleep measurement]]
+		- ((67db1a98-d136-49d4-97e5-6db0b825c817)) [[Sleep measurement]]
+		- ((67db1c14-59b3-4f95-80a3-022345dc293b)) [[Sleep measurement]]
+		- ((67db1f64-9236-4f98-9734-16020b1dd8a2)) [[TIB]] [[Sleep measurement]]
+		- ((67db1f7d-fe93-46f8-82b3-162cdc803cb9)) [[SOL]] [[TST]] [[SE]] [[Sleep measurement]]
+		- ((67db1fc9-59d6-4b9c-ac3c-b34992279a8a)) [[TST]] [[TIB]] [[WASO]] [[SE]] [[Sleep measurement]]
+		- ((67db1ff5-c49b-4de3-9af0-54549b957df6)) [[SE]] [[Sleep measurement]]
+		- ((67db2008-9162-497b-8f89-4cf55457801a)) [[SOL]] [[TST]] [[SE]] [[Sleep measurement]]
+		- ((67db201c-ebd0-499b-a51d-b3274906686d)) [[SOL]] [[Sleep measurement]]
+		- ((67db2039-5e22-42a1-b3ea-7b8562e75b4d)) [[Sleep measurement]] [[TST]] [[SE]]
+		- ((67db2051-2691-4541-be0e-32c84b7a30b3)) [[TIB]] [[Sleep measurement]]
+		- ((67db2088-e32f-4e36-a410-cb6c68721103)) [[Sleep measurement]] [[SOL]]
+		- ((67db209a-b6c8-447c-8f6e-86f3e0f82367)) [[Sleep measurement]] [[TST]]
+		- ((67db20ac-3ae7-4509-9e2c-04d3ee4e0f85)) [[SE]] [[Sleep measurement]]
+		- ((67db20cd-9c5a-48fa-b851-a1670a42ebcd)) [[TST]] [[TIB]] [[SE]] [[Sleep measurement]]
+		- ((67db20e7-1a05-4008-9120-1c66ac19bf81)) [[Sleep measurement]] [[TIB]]
+		- ((67db20f8-997a-4971-9c43-ac676fb00566)) [[Sleep measurement]] [[SE]]
+		- ((67db2110-1c3a-45ea-8824-38abac29f9f2)) [[TST]] [[SE]] [[TIB]] [[Sleep measurement]]
+		- ((67db2136-d905-4764-99e3-57af79202a52)) [[Sleep measurement]] [[WASO]]
+		- ((67db214f-314b-41b0-9b0d-4f2e2b223001)) [[SE]] [[TST]] [[Sleep measurement]]
+		- ((67db2177-8300-429d-9dd6-13e053e2ddd1)) [[WASO]] [[TST]] [[Sleep measurement]]
+		- ((67db2199-1f49-436e-b0d2-e4026dce8712)) [[TST]] [[TIB]]
+		- ((67db21ca-c2e9-4d5c-b8a7-984f04e19e2a))
+		- ((67db21d8-5a5b-4643-aded-f28aca9716ea)) [[SE]]
+		- ((67db220f-27cf-43b5-b722-a41f70967766))
+	- ![3-s2.0-B9780128153734000022-main.pdf](../assets/3-s2.0-B9780128153734000022-main_1742573234483_0.pdf) [[32]]
+- [[Pain sensitivity]]
+  collapsed:: true
+	- **Sleep and pain sensitivity in adults** ![sleep_and_pain_sensitivity_in_adults.10.pdf](../assets/sleep_and_pain_sensitivity_in_adults.10_1740069365478_0.pdf) [[17]]
 	  collapsed:: true
 		- DOI: http://dx.doi.org/10.1097/j.pain.000000000000013
-		- ((67bdbef0-1c50-40f2-9c60-89969f1c2dfd)) [[Slaapduur]] niet!
+		- ((67bdbef0-1c50-40f2-9c60-89969f1c2dfd)) [[TST]] niet!
 		- ((67bdbf48-6d9e-4e17-a2e1-9daf60c0e1a2))
 		- ((67bdbf61-68eb-402b-ab2e-9441a4ec4f98))
 		- enkel zelfgeraporteerde slaapvariabelen! -> niet objectief
@@ -255,9 +422,9 @@
 			- HR = hazard ratio
 		- ((67bdc716-2d7f-4f79-af71-41e5813acc71))
 		- ((67bdc726-149c-46e2-8ec9-3d8f01b254f7))
-		- ((67bdc739-f0d3-4577-86bb-49be09579edc)) [[Tollerantie]]
+		- ((67bdc739-f0d3-4577-86bb-49be09579edc)) [[Pain tollerance]]
 		- ((67bdc776-0983-41e7-9245-bf4dd50c9b3a)) [[SOL]]
-		- ((67bdc787-f97a-48fb-85c3-3cf850c18e4f)) [[Slaapduur]]
+		- ((67bdc787-f97a-48fb-85c3-3cf850c18e4f)) [[TST]]
 		- ((67bdc7a5-3dee-495a-bbf3-25cc02046e50)) [[Stress]]
 		- ((67bdc87a-e5dd-4b0b-8ce5-05d138402b7c))
 		- ((67bdc8d3-047e-45ab-89c8-4fa7b866c440)) (insomnie vs korte slapers)
@@ -266,15 +433,76 @@
 		- ((67bdc9cb-4e0a-4f7f-a6d8-ab003b09bc08)) [[Neurotransmitter]]
 		-
 		-
+- [[Pain perception]]
+  collapsed:: true
+	- **The effect of sleep deprivation on pain perception in healthy subjects: a meta-analysis** #Meta-analyse ![1-s2.0-S1389945715008965-main.pdf](../assets/1-s2.0-S1389945715008965-main_1741187414244_0.pdf) [[18]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1016/j.sleep.2015.07.022
+		- ((67c869ef-f312-413c-a26b-23937d7229b1)) [[Prevalence]]
+		- ((67c86a24-acdb-46b6-86fc-bde451d51117))
+		- ((67c86a89-b50d-46a0-b547-c93a4dc3c73e))
+		- ((67c86abc-70cb-4fb7-aaaf-83ad8a44e82d))
+		- ((67c86ad2-3bc3-4b1d-9ad0-c031bff88a0c)) [[Neurotransmitter]]
+		- ((67c86ae1-09ed-4dff-a736-e1af46921d1e)) [[EOS]]
+		- ((67c86c1f-3770-4958-9fea-d18ca70093b4)) [[SWS]]
+		- ((67c86c90-0182-4c02-b83b-728d9da7dc88)): Heel grote BI in artikel van Azevedo et al.
+		- ((67c86cb0-451e-4d1c-98aa-d45b00f939e0)) [[Sleep deprivation]] [[Pain perception]]
+		- ((67c86cd4-1f7b-45fc-a690-0df3d53734c5)) [[Slaapstadia shift]] [[Nocturnal awakening]] [[SWS]] [[REM]]
+		- ((67c86d48-9ac0-429b-8f1a-0759ea43698a)) [[Directionality]]
+		- ((67c86d59-7a6d-4902-ab9b-3df77beffff0)) [[Sleep quality]]
+		- ((67c86d75-477b-41b3-917a-a1bfbb92af3c)) [[Predictie]]
+		- ((67c86dfb-1b1b-4921-bb0a-dc3a1bde0a9d))
+		- ((67c86da7-1853-4f95-a040-3e0f4ac36d1c)) [[Inflammation]]
+		- ((67c86dbb-215c-4492-bed2-e939a83dfcbe)) [[Melatonine]]
+		- ((67c86e1b-d4ba-48be-bc17-01172d64d669)) #Hiaat
+		- ((67c86e54-de09-406b-bcbe-2c7f1ea61360)) #Hiaat
+		-
+		-
+	- **The impact of sleep disturbance on pain perception: A systematic review examining the moderating effect of sex and age** ![1-s2.0-S1087079223000916-main.pdf](../assets/1-s2.0-S1087079223000916-main_1741250465772_0.pdf) [[19]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1016/j.smrv.2023.101835
+		- ((67c96eae-0775-4788-8e10-d1e2fd68b9ec)) [[Gender]]
+		- ((67c96ee3-dca2-4525-8202-c09ed9a99f35)) [[Prevalence]]
+		- ((67c96f16-2946-4d68-af7c-a4f22531c82b)) [[Directionality]]
+			- ((67c96f2c-b0bc-4dd3-bbab-e200399b9a8a))
+		- ((67c96f40-1512-4611-855d-49047b67e173)) [[Gender]]
+		- ((67c96f64-bfd9-41ed-9ee2-2e62c6501049)) [[Sleep deprivation]] [[Sleep fragmentation]] [[Sleeprestriction]]
+		- ((67c97101-986c-476b-9a13-d23e15ab4e75)) [[Definition pain]]
+		- ((67c9710c-56d8-4f46-8745-07878080e5ec)) [[Definition pain]]
+		- ((67c97130-08ba-4ceb-b8ac-8a3ec1ce964b)) [[Definition pain]]
+		- ((67c9717e-7ec3-4dd9-98a8-92f105c843c1)) [[Gender]]
+		- ((67c971a3-d4d2-4f56-b0cb-6c3ac281b6ec)) [[Age]]
+		- ((67c971cd-590f-4c92-a1ed-afc66582489f)) [[Gender]] [[CPM]]
+		- ((67c971e6-617c-47c6-a127-0f5f5f2a9b49)) [[Age]]
+		- ((67c9741f-fff5-475d-a703-4aad153539da))
+		- ((67c97433-8d31-4ed4-ac37-79b29576bb1c))
+		- ((67c974c6-de7f-468f-a64e-882b68865be7)) [[Gender]]
+		- ((67c974da-017b-4ae4-9457-a46e41be2262)) -> modererend effect van totale laapdeprivatie op pijn sensitiviteit
+			- => maar age range van deze studie is maar heel klein! #Hiaat
+		- ((67c977b8-5967-446e-a1cf-00bb5fb4e98e))
+		- ((67c97925-ea6c-409f-a83c-e9ada4342d88)) [[Pain perception]] [[Pain sensitivity]]
+		- ((67c97948-a87f-46d2-b3d2-621d2254ef01)) [[Age]] [[Gender]]
+		- ((67c9798f-ca29-415c-9500-6086210b08ee)) [[Sleep fragmentation]]
+		- ((67c979a2-3c7f-4dca-9cd2-1f018260f730)) [[Gender]] [[Sleep fragmentation]]
+		- ((67c979bc-594e-4eca-b71c-800479d9041d)) [[Age]] [[Sleep fragmentation]]
+		- ((67c979e4-541d-40a1-ad34-df6dcd6799d5))
+		- ((67c97a3e-b250-42e5-8114-ff25f5159a25)) [[Sleep disturbance]] [[CPM]]
+		- ((67c97a5f-a79a-44f4-a5a0-6124225fda4b)) [[Gender]] [[CPM]]
+		- ((67c97a93-9424-4b16-9cd6-413fea9f5e07)) [[Age]] [[CPM]]
+		- ((67c97ced-6c78-4d78-997f-f9cd771caf04)) [[TST]]
+		-
+		-
+		-
 - [[SHHS]]
-	- **Polysomnographic Measurement of Sleep Duration and Bodily Pain Perception in the Sleep Heart Health Study** ![aasm.39.8.1583.pdf](../assets/aasm.39.8.1583_1740595473209_0.pdf)
+	- **Polysomnographic Measurement of Sleep Duration and Bodily Pain Perception in the Sleep Heart Health Study** ![aasm.39.8.1583.pdf](../assets/aasm.39.8.1583_1740595473209_0.pdf) [[20]]
+	  collapsed:: true
 		- **DOI:** https://doi.org/10.5665/sleep.6026
-		- ((67c8181a-6c3f-4425-a46b-1a9a31471bf1)) [[Directionaliteit]]
-		- ((67c818bf-caf8-461e-854f-6d7be192e5a6)) [[Pijnperceptie]]
-		- ((67c818d7-f1fe-49da-b55b-5656bf7d8312)) [[Pijnintensiteit]]
-		- ((67c818f2-1f5d-4005-be4e-9daec187c3b2)) [[Pijnperceptie]] [[Gender]]
+		- ((67c8181a-6c3f-4425-a46b-1a9a31471bf1)) [[Directionality]]
+		- ((67c818bf-caf8-461e-854f-6d7be192e5a6)) [[Pain perception]]
+		- ((67c818d7-f1fe-49da-b55b-5656bf7d8312)) [[Pain intensity]]
+		- ((67c818f2-1f5d-4005-be4e-9daec187c3b2)) [[Pain perception]] [[Gender]]
 			- ((67c81918-1e33-4357-a57b-086575b8099e)) -> Zeker in model opnemen!
-		- ((67c81935-bc34-4a79-ac40-65d4cc4e1fa3)) [[Slaapdeprivatie]]
+		- ((67c81935-bc34-4a79-ac40-65d4cc4e1fa3)) [[Sleep deprivation]]
 		- ((67c8194c-3893-4567-9b46-1d1fac19b8e7)) [[Mood]]
 		- ((67c81962-acdc-4506-bee2-6a13626f3b56)) [[SWS]]
 		- ((67c8197d-22b1-4071-ada4-e52ec7e5eaf0)) [[REM]]
@@ -293,18 +521,18 @@
 		- ((67c81cde-b8bf-44df-8299-34c2340eaf11))
 		- ((67c81d04-16d8-480f-81cb-176462291342)) [[SWS]]
 		- ((67c81d14-513c-4875-8407-9e36d70690ca)) [[REM]]
-		- ((67c81d2b-11d2-4aca-9842-5eb91ea7bdf4)) [[Slaapdeprivatie]]
+		- ((67c81d2b-11d2-4aca-9842-5eb91ea7bdf4)) [[Sleep deprivation]]
 		- ((67c81d45-134c-4de2-92db-f8d7e110bf11)) [[Sleepiness]]
 		- ((67c81d6c-9a46-4cec-9e87-4ad65f0da12a))
 		- ((67c81d8a-b315-4b8a-b9e5-54fcdc34a2bf)) [[Inflammation]]
 		- ((67c81d9a-485d-4770-b133-eac90b59eaf6)) [[Neurotransmitter]]
-		- ((67c81dc7-cab3-4b01-82fb-a30a68d3d9d4)) [[Groeihormoon]]
-		- ((67c81de6-8c58-41a9-9c6a-a6c31597673c)) [[Hart]]
+		- ((67c81dc7-cab3-4b01-82fb-a30a68d3d9d4)) [[Growth hormone]]
+		- ((67c81de6-8c58-41a9-9c6a-a6c31597673c)) [[Heart]]
 		- ((67c81e0c-90f0-423e-bf6b-bc6532bca2df)) [[Breinstructuur]]
 		- ((67c81e58-2f7c-4218-80d0-3950dc5b49a2)) [[Gender]]
 			- ((67c81e86-0784-44a0-ae4f-73ed072b1bf8))
 		- ((67c81ea1-cbbc-45a1-856f-b03de05a4ede)) [[Medicatie]]
-		- ((67c81ee9-ba5f-44c1-a55a-41b8e0a5cd8e)) [[Directionaliteit]]
+		- ((67c81ee9-ba5f-44c1-a55a-41b8e0a5cd8e)) [[Directionality]]
 		- ((67c81f0a-3a47-4695-85c6-7404fbabf911)) #Hiaat
 		-
 		-
@@ -313,5 +541,252 @@
 		-
 		-
 		-
+- [[Chronic pain]]
+  collapsed:: true
+	- **Sleep interventions for osteoarthritis and spinal pain: a systematic review and meta-analysis of randomized controlled trials** #Meta-analyse ![1-s2.0-S1063458418315012-main.pdf](../assets/1-s2.0-S1063458418315012-main_1741250477377_0.pdf) [[21]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1016/j.joca.2018.09.014
+		- ((67d15599-a201-4cfa-9866-7388cf12b5b5)) [[EPM]]
+		- ((67d155cd-6977-4549-ac05-e3fdf522fa6a))
+		- ((67d1560b-4ae3-4c3f-bb9d-0ecc5a1fd108)) [[Prevalence]]
+		- ((67d1562f-d19e-4a5d-be68-93cf6b9860ae)) [[Directionality]]
+		- ((67d15650-26ea-4966-bedb-9cf85481c46a))
+		- ((67d1565b-83c6-4ddc-afcf-03ab7c35641a)) [[Directionality]]
+		- ((67d1567b-3dfe-4179-bdaa-9c9c6d4aeedd)) [[Inflammation]] [[CPM]]
+		- ((67d15689-01dc-4e50-948f-536beffc8102)) [[Mood]]
+		- ((67d156c5-cfb8-4f5d-8439-9ce921e65330))
+		- ((67d1571e-0769-413d-88ad-9b3315813974)) farmacologische interventie geincludeerd, maar we weten dat slaap mbv medicatie niet dezelfde kwaliteit heeft! #Hiaat
+		- ((67d15765-c828-42df-b2f7-bd8b092fcff1)) geen objectieve data #Hiaat
+		- ((67d15891-739f-4b66-bfa1-b0016c9d8d4c)) vele van deze interventies lijken mij niet heel wetenschappelijk #Hiaat
+		- ((67d158b2-4c9c-418d-b933-f07a04a8773d))
+		- ((67d1593f-49ee-41d6-a524-250e6f8b4e72))
+		- ((67d1594b-1726-4e31-ba4e-0a937182bdfb))
+		- ((67d159af-37b7-46d2-9d52-8bd829e30851))
+		- ((67d159c0-2354-4f9c-b761-47021231f968))
+		- ((67d159d0-6974-4e81-b486-c361e7c8494b)) ISI = insomnia everity index
+		- ((67d159e6-ddba-4ae2-b398-dd7e3aa2da0a))
+		- ((67d159fb-2b3f-4b68-94f9-8e03827146f3))
+		- ((67d15a05-5b34-4d39-b445-b130a54b88f2))
+		- ((67d15a10-a2d9-47ce-9316-c00569a851ce))
+		- ((67d15a21-5f69-45f7-8ebc-198ffc7a479e))
+		- ((67d15a40-aeb8-49cf-88c0-c7335f09f45b)) #Hiaat
+		- ((67d15ac0-b16c-4c16-8a1e-27c07e0d8c3a)) #Hiaat
+		- ((67d15b0a-8a33-4c9a-bf5c-83f27d6a8896)) [[Directionality]]
+		-
+	- **Sleep disturbances and sleep disorders as risk factors for chronic postsurgical pain: A systematic review and meta-analysis** #Meta-analyse ![1-s2.0-S1087079222000430-main.pdf](../assets/1-s2.0-S1087079222000430-main_1741250489059_0.pdf) [[22]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1016/j.smrv.2022.101630
+		- ((67d18bb8-3222-428d-9f44-84ea69ad745f))
+		- ((67d18bd5-6af7-4baf-8c2a-04fd4216dd22)) [[Chronic post-surgery pain]]
+		- ((67d18c31-cf3b-428e-917a-a06d637f4c0c)) [[Directionality]]
+			- ((67d18c45-6ff2-469f-b153-80cb73d518cf))
+		- ((67d18c57-6391-4035-9f2b-7dfaa60d0903)) [[Chronic post-surgery pain]]
+		- ((67d1911d-7fa2-4941-8148-ed46066de891)) #Hiaat
+		- ((67d19182-993f-4c8b-b960-9ad0f211db6e)) #Hiaat
+		- ((67d191d5-2880-42ac-ab53-4f6db9cb87ec)) -> verschil vanaf waneer er sprake is van pijn #Hiaat
+		- ((67d193f4-f91c-40ff-8b93-80038593183d))
+		- ((67d1949b-3872-42ec-b4ad-2424b703f6d5))
+		- ((67d194d7-b9c5-4133-bc8a-329c35c23713)) [[Chronic pain]]
+		- ((67d19540-bd7b-4257-a34a-42b6e597c4c2)) [[Mood]]
+		- ((67d19573-84c9-497e-9a77-196efe6e9ec2)) [[Affect]]
+		- ((67d195a1-80a3-4364-ace9-8e699fa433af)) [[Depression]]
+		-
+	- ### Prevalence of sleep disturbances in patients with chronic non-cancer pain: A systematic review and meta-analysis ![1-s2.0-S1087079221000526-main.pdf](../assets/1-s2.0-S1087079221000526-main_1741250522656_0.pdf) [[23]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1016/j.smrv.2021.101467
+		- ((67d98bbf-b0be-4e57-8a8d-26f9fc303453)) [[Directionality]] [[Pain intensity]]
+		- ((67d98d41-d147-48fb-af54-858aaf16738e))
+		- ((67d98dea-d352-45f3-bcfc-718992d51931)) [[Prevalence]]
+		- ((67d98df8-e9f5-4d7d-8a4c-82a57fcad076)) [[Prevalence]]
+		- ((67d98e23-2133-479a-86f2-63f19e4923fb)) [[Prevalence]]
+		- ((67d98e30-7087-436c-b460-7ae96375034c)) [[Prevalence]]
+		- ((67d98e42-2a7d-4954-8ce4-5b01955c30f0)) [[Gender]] [[Age]]
+		- ((67d98eab-b1d8-4e6f-83c0-41528311f6df)) [[Prevalence]] [[Chronic pain]]
+		- ((67d98ec4-470d-4866-ac5a-6e2e912619df)) [[Prevalence]] [[Artritis]] [[Back pain]]
+		- ((67d98ee1-f850-48f6-8b6c-4dbebd204c94)) [[Fibromialgie]] [[Prevalence]]
+		- ((67d98f23-efa5-4b61-adfd-5cc548bb40cf)) [[Sleep disturbance]] [[Depression]] [[Chronic pain]]
+		- ((67d98f72-7919-48ab-8266-0f539914af3f)) [[Chronic pain]]
+		- ((67d98f96-2857-43cc-8a0a-4507bd70b67c))
+		- ((67d98fb8-6821-4992-8bf8-ee0671a862a3))
+		- ((67d98ff4-a4cc-4350-bd45-0d65bb38c7b1))
+		- ((67d9900f-c00d-4879-8df6-c7edebf14da8)) [[Depression]]
+			- ((67d99023-00ee-4c93-80f1-591bc1b366cc))
+		- ((67d99324-0ee3-4269-be38-e5371bac3407)) [[Dysfunctional beliefs]]
+		- ((67d9935f-0ad8-4cdc-91ed-d1ff46b238c6)) [[Prevalence]] [[Sleep quality]]
+		- ((67d99390-1138-479a-9b96-52819cbb0109)) [[SOL]] [[SE]] [[TST]] [[Sleep disturbance]]
+- [[OSA]]
+  collapsed:: true
+	- **The Association of Obstructive Sleep Apnea and Pain Outcomes in Adults: A Systematic Review** ![pm%2Fpny140.pdf](../assets/pm_2Fpny140_1741250482760_0.pdf) [[24]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1093/pm/pny140
+		- ((67d18504-352b-4315-a225-e00f627f7334)) = laag zuurstofniveau in bloed [[Hypoxemia]]
+		- ((67d18562-8d48-49d6-8fa6-1d182d6d5fba)) [[OSA]]
+		- ((67d18586-67e0-4a16-87e9-2aa81f1ca43e)) [[OSA]]
+		- ((67d1859a-385f-4e62-ae8d-27123d449563)) [[Hyperalgesia]] [[Pain sensitivity]] [[Inflammation]]
+		- ((67d185da-d370-411b-919f-15a0f760dd95))
+		- ((67d1863e-7bd4-4553-990e-eab72508eab2)) [[Hypoxemia]]
+			- ((67d1864d-007d-4d6b-b531-9f754eb79a29))
+		- ((67d18665-d9c8-400e-9e5b-ba24e308a789))
+		- ((67d18675-cd08-49fe-9957-f3350cd3563e)) [[OSA]] [[Pain intensity]]
+		- ((67d18689-f86f-4e66-b879-b191f35d61b3)) [[Pain tolerance]]
+		- ((67d186eb-e28b-4094-8770-7e88c864e606))
+		- ((67d18764-5b85-42d4-a798-c8886d23da77))
+		- ((67d187ac-dfbe-4e57-9bad-93451b373bbb)) [[OSA]]
+		-
+- [[MSK pain]]
+	- **Effectiveness of non-pharmacological interventions on sleep characteristics among adults with musculoskeletal pain and a comorbid sleep problem: a systematic review** ![s12998-021-00381-6.pdf](../assets/s12998-021-00381-6_1741250494575_0.pdf) [[25]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1186/s12998-021-00381-6
+		- ((67d1a2ef-cc96-4dd1-897c-71d9ab557d83)) [[Prevalence]]
+		- ((67d1a304-f9f4-41b5-ae94-da80e666f6c9)) [[Prevalence]]
+		- ((67d1a34a-a1f0-45ec-9e67-3d5a94e7a232)) [[Sleep deprivation]] + [[Chronic pain]]
+		- ((67d1a392-d24d-41e6-84cb-ff315f5d0433)) [[Directionality]]
+		- ((67d1a7da-b083-4b21-b00d-8621938b96e9)) [[Cancer]]
+		- ((67d1a7ee-1cb6-45a6-9f04-d81bec02d9bc)) [[Artritis]]
+		- ((67d1a82c-98d7-491a-a156-7111873af1df)): hier geen medicatie opgenomen
+		- ((67d1aa86-dbc4-4970-9a23-c66b598d039a))
+			- ((67d1aa8c-d1b9-4711-aa78-aa85891e05da))
+			- ((67d1aa9d-153b-42be-8970-0d48a1ed1d24))
+			- ((67d1aab5-8c04-4c6f-adac-c6b51269a648)) [[SE]]
+			- ((67d1aabe-ea8d-4764-956c-1aed42617466))
+			- ((67d1aac7-68af-44ab-b8ee-516f71248d60))
+			- ((67d1aad0-c18c-4d52-951a-5fbed94a51fb)) [[TST]]
+			- ((67d1aad7-f819-458e-ba11-4ce3aaba4055)) [[SOL]]
+			- ((67d1aae0-1e06-4418-96e3-56fad6f37053)) [[WASO]]
+			- ((67d1ab0e-21a6-4f2c-8607-eec98bf8d66a))
+			- ((67d1ab17-65c6-4ddf-a30d-c0a7e07a00be)) [[CPM]]
+			- ((67d1ab34-53e3-49d9-81a0-62dcdbf6822b))
+		- ((67d1abf9-2f4e-428d-a233-e962dc257bd1)) #Hiaat
+		- ((67d1acd1-9fed-49df-9f1e-a9ee9e389a76)) -> wel in long term )zie boven in paragraaf)
+		- ((67d1ad15-ad26-4c9a-bf6e-0d114530d386)) [[WASO]]
+		- ((67d1ad32-d3f4-4078-8d7e-b5a5a66d1e4d)) daling in [[TST]] ?
+		- ((67d1ad4f-6b0d-4255-a2b6-85f1b7a9d808)) [[SE]] gestegen ondanks daling in [[TST]]
+		- ((67d1ad67-a24f-4f67-9f54-eafd6d5f952f)) (insomnia severity index) -> gedaald
+		- ((67d1adaa-614f-40b6-a2ae-3c0faf521575)) [[SOL]]
+		- ((67d1ae60-0ff7-4f2c-970f-0b67e6a960d2))
+		- ((67d1aeb1-7bef-4e74-800b-29c900c58293))
+		- ((67d1af0c-d95a-4794-a229-67b6a09a78dd)) [[Directionality]]
+		- ((67d1b371-fa32-47e1-98df-9984726a79f7))
+		- ((67d1b3b9-44bc-4e32-9633-1e08c142525b))
+		-
+		-
+	- ### The bidirectional relationship between sleep problems and chronic musculoskeletal pain: a systematic review with meta-analysis #Meta-analyse ![The bidirectional relationship between sleep problems and chronic musculoskeletal pain_ a systematic review with meta-analysis.pdf](../assets/The_bidirectional_relationship_between_sleep_problems_and_chronic_musculoskeletal_pain_a_systematic_review_with_meta-analysis_1741250507629_0.pdf) [[26]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1097/j.pain.0000000000003279
+		- ((67d82ecc-d5d3-4f55-a6fe-2dd618f455de)) [[Depression]] [[QoL]]
+		- ((67d82eec-ec5e-4493-88e8-de1b99058814)) [[Socio-economics]]
+		- ((67d82f09-88f8-4453-8563-8772654770a1)) door slaap!
+		- ((67d82f30-7e5a-4ac7-9c43-cdd197a240ff)) [[Directionality]]
+		- ((67d94f98-e338-4b67-bdad-09b9007d3033)) [[MSK pain]]
+		- ((67d94fbc-b4a1-4e32-9b53-2248cbe2e54f)) [[MSK pain]]
+		- ((67d94ff3-9745-4d38-865e-900ff4938553)) [[MSK pain]]
+		- ((67d94ffe-061e-43fa-b51d-d4d1e2f567ba)) [[MSK pain]]
+		- ((67d9500e-5701-48e1-af5c-012a32592269)) [[MSK pain]]
+		- ((67d95028-ac08-4c59-a0b4-3224518d49c3)) [[MSK pain]]
+		- ((67d95043-4d5c-4932-8fd3-1d6de9ffb371)) [[MSK pain]]
+		- ((67d95060-1780-4b54-b250-1f5f9b553bca)) [[MSK pain]]
+		- ((67d95072-457a-4ad9-883c-0c3211a6f67b)) [[MSK pain]] grotere evidentie
+		- ((67d950cc-bfb8-4e28-a0bc-fa18fdf1244d))
+		- ((67d95112-9b0e-4eea-bba6-f93769c5c315)) [[Dagitty]]
+	- ### Day-to-day associations between pain intensity and sleep outcomes in an adult chronic musculoskeletal pain population: A systematic review ![1-s2.0-S1087079224001175-main.pdf](../assets/1-s2.0-S1087079224001175-main_1741250516894_0.pdf) [[27]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1016/j.smrv.2024.102013
+		- ((67d95277-1ae4-4d86-ba1f-6a33981a91a0)) [[Prevalence]]
+		- ((67d95288-0ff7-4d5e-b833-67d53b72a982)) [[Directionality]]
+		- ((67d9529a-7995-49af-87c3-9e585fae7874)) [[Directionality]]
+		- ((67d952ba-4970-4cfe-8cd3-63fc00ede70d))
+		- ### sleep -> pain
+		- ((67d95651-c6d6-419e-bde3-dfb53290084a)) [[Sleep quality]] [[Fibromialgie]]
+		- ((67d95682-afb5-4ded-ba44-148204d08c68)) [[Sleep quality]] [[Pain intensity]] [[Lower back pain]] -> maar enkel de eerste helft van de dag
+		- ((67d956cb-e8d6-47b7-9027-5aabbf210bdc)) [[TST]] [[Artritis]]
+		- ((67d9570a-9ac7-43b6-9b14-8f7e05713d7f)) [[SOL]] [[Lower back pain]]
+			- ((67d95743-c958-4ee6-aef4-df8d6d8bbc4b)) [[SOL]] [[Artritis]]
+		- ((67d9575c-e51e-4a6f-9674-b3ef945ea386)) [[WASO]]
+		- ((67d957af-477a-4673-b53d-098566fb1bd7)) [[WASO]] [[Lower back pain]] [[Temporomandibular disorder]]
+		- ((67d957d8-8a23-430b-903c-681995f9f486)) [[Pain intensity]] [[WASO]] [[Artritis]]
+		- ((67d95804-a3dc-4ea7-a68a-99f4c95af6cd)) [[SE]] [[Pain intensity]]
+		- ((67d9581c-d60f-42c7-a883-aa1b9afd1001)) [[SE]] [[Pain intensity]] [[Lower back pain]]
+		- ### pain -> sleep
+		- ((67d95925-93d7-4fc2-9417-195f5b9c426b)) [[Sleep quality]] [[Pain intensity]]
+		- ((67d95941-52aa-4dd7-9f62-819ff6581282)) [[Pain intensity]] [[Lower back pain]] [[Fibromialgie]] [[Neck pain]] [[Sleep quality]]
+		- ((67d95850-4197-4f34-bbb7-9854bba3904e)) [[TST]] [[Pain intensity]]
+		- ((67d95866-cd7b-47a0-909d-ef6e0fd03263)) [[TST]] [[Lower back pain]] [[Pain intensity]]
+		- ((67d95884-a5e3-4bd5-8e0e-b02518109d61)) [[TST]] [[Lower back pain]] [[Pain intensity]]
+		- ((67d958a7-b354-4682-bec3-e245dbfb201b)) [[Pain intensity]] [[SOL]]
+		- ((67d958bc-40b5-4b14-9331-0cb2e2c367ad)) [[Pain intensity]] [[SOL]] [[Back pain]]
+		- ((67d9596e-a72d-4b3b-b7c6-4674958c3c74)) [[Pain intensity]] [[WASO]]
+		- ((67d95993-de20-47ef-abf8-a5e1b02a4e27)) [[Pain intensity]] [[SE]]
+		- ((67d959a6-8f54-4036-a5ed-fd2e781d87aa)) [[Pain intensity]] [[SE]] [[Back pain]]
+		- ((67d959cd-7236-458f-8e49-4d60763fe993)) [[Pain intensity]] [[SE]]
+		- ((67d959eb-db7e-4168-a6f9-571b4f6342ec)) [[SE]] [[Pain intensity]] [[Back pain]] [[Neck pain]]
+		- ((67d95a0a-db0a-48cd-8065-d2a53d015a89)) [[Directionality]] [[MSK pain]]
+		- ((67d95a1f-5d7e-4b54-9f1b-6e6a985db6c4)) [[SE]] [[Sleep quality]] [[Directionality]]
+		- ((67d95a56-5009-40a0-871f-2c69b2b2851d)) [[Directionality]]
+		- ((67d95a6e-77ee-4d21-9295-5732f2537aee))
+		- ((67d95a7c-8177-4695-8e1d-58ce4cddf2d5)) [[Sleep fragmentation]]
+		- ((67d95ac1-db49-4c99-afef-a5258472186d))
+		- ((67d95ad3-b9f3-46eb-8aea-927bbf67b76d))
+		- ((67d95af3-11a8-4419-b9bb-976ba206af2e))
+		- ((67d95b2d-b0ce-4053-89e9-30cf3fa899c8))
+		-
+		-
 - [[Te sorteren 🏷️]]
-	-
+	- ### The Association between Sleep and Chronic Spinal Pain: A Systematic Review from the Last Decade ![jcm-10-03836-v2.pdf](../assets/jcm-10-03836-v2_1742457746518_0.pdf) [[28]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.3390/jcm10173836
+		- ((67dbe350-409e-43e9-9745-9003635d6bc1)) [[Directionality]] [[Mechanisms]]
+		- ((67dbe36b-cd91-41fc-939a-214cea044ee6)) [[EPM]] [[Hyperalgesia]]
+		- ((67dbe384-a53b-41b4-a2a6-257e1f9bf3df)) [[Directionality]]
+		- ((67dbe3b3-2082-4fb5-bdc6-33e284d60731)) [[TST]] [[Sleep disturbance]] [[Sleep quality]] [[Next day functioning]] [[SOL]]
+		- ((67dbe63e-8c51-4436-92e6-6789fc3ae0eb)) [[Pain intensity]] [[Sleep quality]]
+		- ((67dbe668-aa8d-414a-a5f1-2531cfa64673)) [[Time of day]] [[Sleep quality]] [[Pain intensity]]
+		- ((67dbe6b7-1e90-4c4a-91e0-bb8ab4728f56)) [[Sleep quality]] [[Pain duration]]
+		- ((67dbe6da-a8ca-46f7-a005-ad001f781190)) [[Lower back pain]] [[Sleep quality]]
+		- ((67dbe6f1-eaca-44c0-821d-745a7ac526e5)) [[TST]] [[Lower back pain]]
+		- ((67dbe893-b36a-449d-8020-91b294150a59)) [[Insomnia]] [[Pain intensity]]
+		- ((67dbe8d8-e1fe-4b6d-83fb-5aa21e2678c5)) [[Pain intensity]] [[Sleep disturbance]]
+		- ((67dbe8ec-71a2-49ff-bad4-5299727842a3)) [[Insomnia]] [[Pain duration]]
+		- ((67dbe906-097a-424d-9445-228b0a994e5d)) [[Lower back pain]] [[Insomnia]]
+		- ((67dbe917-c5f5-429c-afb5-d1de2aa17891)) [[Sleep disturbance]] [[Lower back pain]]
+		- ((67dbe92b-22ee-481c-a9b8-e3bac6c4d8b8)) [[Sleep problems]] [[Whiplash]]
+		- ((67dbe978-9dd1-4321-baac-91d5a3666477)) [[Sleep deprivation]] [[Sleep disturbance]] [[Pain intensity]]
+			- ((67dbe994-be3b-43db-953c-6bfe06bd3113))
+		- ((67dbe9a7-0e25-4256-95b6-6196a1253b0e)) [[Sleep measurement]] [[Pain intensity]]
+		- ((67dbea14-a667-4efa-9fce-b3925d693a8f)) [[TST]] [[Lower back pain]]
+		- ((67dbea3e-0091-4d0e-b71f-a3983e33e0de)) [[Sleepiness]] [[Lower back pain]] [[Pain intensity]]
+		- ((67dbea61-06fc-4cff-9da8-16529b3deadf)) [[Sleepiness]] [[Pain duration]]
+		- ((67dbea7d-fa08-4505-bfb3-c08612bc0ba9))
+		- ((67dbea86-0b7a-4abc-96a0-d3606ff76d11))
+		- ((67dbea95-4c9c-44ec-8d2c-626cdc5c40a8))
+		- ((67dbeaa5-158b-4c11-b70d-54138a3c7e5a))
+		- ((67dbeb4b-f72e-4dba-b63a-44e90688907a))
+		- ((67dbeb56-ee99-4a04-a279-69a687694dc4))
+		- ((67dbeb5c-7dff-4510-b526-a1606a9ac669))
+		- ((67dbeb69-c398-4a13-a8d2-fe7f9d783756))
+		- ((67dbeb8f-de04-49ff-98e6-17210b242ffb)) [[Directionality]]
+	- ### Sleep Disturbances in Chronic Pain: Neurobiology, Assessment, and Treatment in Physical Therapist Practice ![ptj_98_5_325.pdf](../assets/ptj_98_5_325_1742457757423_0.pdf) [[29]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1093/ptj/pzy02
+		- ((67dc1148-f2ee-4e1c-b48b-9bc528561e47)) [[Prevalence]]
+		- ((67dc1166-174c-462c-a0de-248a98fba887)) [[Directionality]]
+		- ((67dc1182-52cb-4c99-9ffc-c01b285e3178)) [[Directionality]]
+		- ((67dc1293-5e7a-4b7e-8fa0-12ef713dacf3)) [[Mechanisms]]
+		- ((67dc12bb-b03f-4179-b8ad-ffce19767a80)) [[Artritis]] [[SE]] [[Central Sensitization]]
+		- ((67dc12e9-1aaf-4b2d-a0c8-acf3be1e5acb)) [[Sleep quality]] [[Hyperalgesia]]
+		- ((67dc130f-34f0-4d87-8438-fe6e58af987c)) [[Dopamine]]
+		- ((67dc1334-9086-4198-87b9-5cb2a17f36c9)) [[Serotonine]]
+		- ((67dc1382-1842-4425-bdc7-e93cda28a9fd)) [[Inflammation]]
+		- ((67dc13b8-42f4-4e1a-ab84-c754e8851498)) [[Insomnia]] [[Stress]] [[Anxiety]]
+			- ((67dc13c8-3f5b-48d9-8903-8498b97063f7)) [[Lower back pain]]
+		- ((67dc13e5-95a4-4e64-ab32-d99b5c48ed84)) [[Anxiety]]
+		- ((67dc13fc-17e2-49b0-ab9e-2aec5655aeef)) [[Stress]]
+		- ((67dc1680-8e64-4257-bd4e-abc4de21bbc4)) [[Stress]]
+		- ((67dc16d8-ddb4-4563-a06d-01654a55ba93)) [[Sleep measurement]]
+		- ((67dc1702-168c-49ef-abf3-34adb8064a84)) [[Substance misuse]]
+		- ((67dc1745-f5a9-45da-8e7c-41dfcd6e20a2)) [[Sleep quality]] [[Pain intensity]] [[Fatigue]]
+		- ((67dc178c-ec79-46f5-8cff-e2579c33506c)) [[CBTI-I]]
+			- ((67dc17a9-73b3-43a7-abf2-33986dfb14ac))
+		-
+		-
+	- ![ern.09.135.pdf](../assets/ern.09.135_1742481987799_0.pdf) [[30]]
+	- ![Carskadon Dement 2011.pdf](../assets/Carskadon_Dement_2011_1742555140436_0.pdf) [[31]]
