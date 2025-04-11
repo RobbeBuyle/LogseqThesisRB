@@ -20,7 +20,7 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals "Daily Template"}
+ {:journals ""}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["klad 📝" "Klad" "🏛️ bibliotheek" "dagitty" "bibliotheek"]
+ :favorites ["Bibliotheek 🏛️"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -418,5 +418,4 @@
  ;;   - :triple-lowbar (default)
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
- :file/name-format :triple-lowbar
- :publishing/all-pages-public? true}
+ :file/name-format :triple-lowbar}
