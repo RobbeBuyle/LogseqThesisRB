@@ -5,9 +5,20 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 	- ### ...
 		- DOI: ...
 - ## Sleep disorders
-	- **Sleep Disorders and Traffic Accidents: Unveiling the Hidden Risks** ![943346.pdf](../assets/943346_1743685010953_0.pdf) [[9]]
+	- **Sleep Disorders and Traffic Accidents: Unveiling the Hidden Risks** ![943346.pdf](../assets/943346_1743685010953_0.pdf) [[9]] #Case-study
+	  collapsed:: true
 		- DOI: https://doi.org/10.12659/AJCR.943346
+		- ((67f925ae-b38d-4a72-917a-0f1542b10172)) [[Impact]]
+		- ((67f925c2-3c32-475d-8b95-a008d7ea2450)) [[Impact]]
+		- ((67f925e0-c4c0-46b2-9112-433432122884)) [[Drowsiness]]
+		- ((67f9266c-89b4-41d8-b31e-797aa8472474)) [[Sleepiness]] [[Alcohol]]
+		- ((67f92694-8963-4181-9138-5de24cafb835)) [[OSA]]
+		- ((67f926a0-6bdb-4a51-ac25-fe8a2cdde6d0)) [[Sleepiness]] [[MVA]] [[OSA]]
 		-
+	- **Sleep Disorders and Risk of Motor Vehicle Acc** ![jsm-210017.pdf](../assets/jsm-210017_1743685006253_0.pdf) [[10]]
+		- DOI: https://doi.org/10.13078/jsm.210017
+		- Chinees!
+	-
 - ## Sleepiness
 	- **Sleepiness and the risk of road trafﬁc accidents: A systematic review and meta-analysis of previous studies** ![1-s2.0-S1369847817306290-main.pdf](../assets/1-s2.0-S1369847817306290-main_1743684868897_0.pdf) [[2]]
 	  collapsed:: true
@@ -215,6 +226,24 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		-
 		-
 		-
+	- **Sleep-related Fatal Vehicle Accidents: Characteristics of Decisions Made by Multidisciplinary Investigation Teams** ![sleep%2F27.2.224.pdf](../assets/sleep_2F27.2.224_1743684992604_0.pdf) [[11]]
+		- DOI: https://doi.org/10.1093/sleep/27.2.224
+		- ((67f9288a-fc30-4ab8-bbb4-f4083627fa8d)) [[Fatigue]]
+			- ((67f928a2-158f-4a73-9cca-63ae714b718e))
+		- ((67f928bb-7da9-413c-bdf2-28e7b93aed84)) #Hiaat
+		- ((67f928db-65e8-4b22-a753-fb2651177c78)) [[Prevalence]]
+		- ((67f92bbb-19b3-4815-8164-ba6b57c8948d)) #Interesting
+		- ((67f92bf3-f554-4b94-9e7c-cb9f9b86d2eb)) #Interesting
+		- ((67f92c85-e07f-4d0d-9231-31f56842610e)) #Interesting
+		- ((67f92cf8-dade-4978-bb6f-b72b5a557de9)) [[Time of day]] [[Day of week]] [[Road type]] [[Road condition]] [[Age]]
+		- ((67f92d6d-42c1-4154-8d5a-503db5631664)) [[Time of day]]
+		- ((67f92d8e-35f6-4a9d-bf4b-0eed1e40f67b)) [[TST]]
+		- ((67f92da5-5f72-4935-af15-cc313931fdc4)) [[Time awake]] [[Tiredness]]
+		- ((67f92dd7-451c-4f5a-9967-aa970b91d95a)) [[Driving time]]
+		- ((67f92e41-f228-4158-8297-86e74a257176)) [[Fatigue]]
+			- ((67f92e50-3087-4f81-9598-59a56580c922))
+		-
+		-
 - ## Objective sleep data
 	- **Actigraphic and Self-reported Sleep in Trafﬁc Accident Victims** ![renner-et-al-2021-actigraphic-and-self-reported-sleep-in-traffic-accident-victims.pdf](../assets/renner-et-al-2021-actigraphic-and-self-reported-sleep-in-traffic-accident-victims_1743685014437_0.pdf) [[8]]
 	  collapsed:: true
@@ -232,10 +261,8 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 	- ![nn-1203-vol-30-issue-6-educational-administration-theory-and-practice.pdf](../assets/nn-1203-vol-30-issue-6-educational-administration-theory-and-practice_1743684980183_0.pdf)
 	- ![philip-et-al-2023-the-bordeaux-sleepiness-scale-%28boss%29-a-new-questionnaire-to-measure-sleep-related-driving-risk.pdf](../assets/philip-et-al-2023-the-bordeaux-sleepiness-scale-_28boss_29-a-new-questionnaire-to-measure-sleep-related-driving-risk_1743684984344_0.pdf)
 	- ![view.pdf](../assets/view_1743684988792_0.pdf)
-	- ![sleep%2F27.2.224.pdf](../assets/sleep_2F27.2.224_1743684992604_0.pdf)
 	- ![1-s2.0-S0001457524003075-main.pdf](../assets/1-s2.0-S0001457524003075-main_1743684997975_0.pdf)
 	- ![fnins-15-656203.pdf](../assets/fnins-15-656203_1743685002232_0.pdf)
-	- ![jsm-210017.pdf](../assets/jsm-210017_1743685006253_0.pdf)
 	- ![s11325-014-1114-6.pdf](../assets/s11325-014-1114-6_1743685019157_0.pdf)
 -
 -
