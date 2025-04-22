@@ -774,7 +774,7 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 - ![geriatrics-05-00080-v2.pdf](../assets/geriatrics-05-00080-v2_1744809915042_0.pdf)
 	- lezen als ik te weinig info heb over ouderdom
 - https://academic.oup.com/sleep/article-abstract/41/10/zsy144/5067408?redirectedFrom=fulltext&login=false
--
+- ![long-et-al-sleepy-tired-drowsy-and-fatigue-have-different-meanings-for-a-university-student-sample.pdf](../assets/long-et-al-sleepy-tired-drowsy-and-fatigue-have-different-meanings-for-a-university-student-sample_1745261711753_0.pdf)
 -
 - # Query logger
 - DONE Consensus: How does sleep impact risk of having a traffic accident?
