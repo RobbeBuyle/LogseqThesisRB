@@ -81,3 +81,13 @@ file-path:: ../assets/philip-et-al-2023-the-bordeaux-sleepiness-scale-_28boss_29
   hl-page:: 7
   hl-color:: green
   id:: 67fe5be2-5951-406c-9edb-c07982700d11
+- (item 4: As a passenger in a car for an hour without a break and item 8: In a car while stopped for a few minutes in traffic)
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: purple
+  id:: 6807e066-1931-4588-8610-a7b46ead7a25
+- the item closest to a monotonous and undemanding situation from the ESS for its intensity component, and the history of severe sleepines
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: purple
+  id:: 6807e0c5-bd12-475f-b620-64a8f1796a68

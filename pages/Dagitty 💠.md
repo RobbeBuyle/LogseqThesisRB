@@ -1,10 +1,11 @@
 - ```r
   dag {
   bb="0,0,1,1"
+  "Attention/ vigilance" [outcome,pos="0.482,0.401"]
   "Automobile accident" [outcome,pos="0.922,0.491"]
-  "Cognitive impairment" [outcome,pos="0.383,0.385"]
+  "Cognitive impairment" [outcome,pos="0.400,0.420"]
   "Driving performance (speed management, Lateral deviations)" [outcome,pos="0.684,0.613"]
-  "Executive functions" [outcome,pos="0.449,0.446"]
+  "Driving time" [exposure,pos="0.113,0.597"]
   "Falling asleep behind wheel" [outcome,pos="0.678,0.434"]
   "Jet lag" [exposure,pos="0.047,0.630"]
   "Shift work" [exposure,pos="0.040,0.716"]
@@ -12,25 +13,24 @@
   "Sleep fragmentation" [exposure,pos="0.194,0.477"]
   "Sleep quality" [exposure,pos="0.184,0.689"]
   "Time awake" [exposure,pos="0.060,0.452"]
-  "Vision impairment" [outcome,pos="0.388,0.499"]
+  "Vision impairment" [outcome,pos="0.437,0.483"]
   Age [exposure,pos="0.100,0.902"]
-  Attention [outcome,pos="0.492,0.400"]
   Depression [exposure,pos="0.175,0.968"]
-  Drowsiness [outcome,pos="0.506,0.851"]
-  Fatigue [outcome,pos="0.371,0.838"]
+  Drowsiness [outcome,pos="0.479,0.791"]
+  Fatigue [outcome,pos="0.339,0.855"]
   Insomnia [exposure,pos="0.218,0.106"]
   Medication [exposure,pos="0.272,0.945"]
   Narcolepsy [exposure,pos="0.065,0.230"]
   OSA [exposure,pos="0.126,0.161"]
   RLS [exposure,pos="0.294,0.176"]
   Sex [exposure,pos="0.061,0.827"]
-  Sleepiness [outcome,pos="0.439,0.683"]
+  Sleepiness [outcome,pos="0.381,0.760"]
   TST [exposure,pos="0.046,0.537"]
-  Vigilance [outcome,pos="0.472,0.309"]
-  "Cognitive impairment" -> "Executive functions"
+  "Attention/ vigilance" -> "Driving performance (speed management, Lateral deviations)"
+  "Attention/ vigilance" <-> "Cognitive impairment"
+  "Cognitive impairment" -> "Driving performance (speed management, Lateral deviations)"
   "Driving performance (speed management, Lateral deviations)" -> "Automobile accident"
-  "Executive functions" -> "Driving performance (speed management, Lateral deviations)"
-  "Executive functions" -> Attention
+  "Driving time" -> Fatigue
   "Falling asleep behind wheel" -> "Automobile accident"
   "Jet lag" -> "Sleep quality"
   "Jet lag" -> Sleepiness
@@ -42,19 +42,20 @@
   "Sleep fragmentation" -> Drowsiness
   "Sleep quality" -> Sleepiness
   "Sleep quality" <-> Depression
+  "Time awake" -> "Sleep debt"
   "Time awake" -> Fatigue
   "Vision impairment" -> "Driving performance (speed management, Lateral deviations)"
   Age -> "Cognitive impairment"
   Age -> "Sleep quality"
   Age -> "Vision impairment"
   Age -> Fatigue
-  Attention -> "Driving performance (speed management, Lateral deviations)"
   Depression -> "Cognitive impairment"
   Depression -> Fatigue
   Drowsiness -> "Driving performance (speed management, Lateral deviations)"
   Drowsiness -> "Falling asleep behind wheel"
+  Drowsiness -> "Vision impairment"
+  Fatigue -> "Cognitive impairment"
   Fatigue -> "Driving performance (speed management, Lateral deviations)"
-  Fatigue -> "Executive functions"
   Fatigue -> Drowsiness
   Insomnia -> "Sleep debt"
   Insomnia -> "Sleep fragmentation"
@@ -69,12 +70,11 @@
   Sex -> "Sleep quality"
   Sex -> Fatigue
   Sex -> OSA
+  Sleepiness -> "Cognitive impairment"
   Sleepiness -> "Driving performance (speed management, Lateral deviations)"
-  Sleepiness -> "Executive functions"
   Sleepiness -> "Falling asleep behind wheel"
   Sleepiness -> Drowsiness
   TST -> "Sleep debt"
-  Vigilance -> Attention
   }
   
   ```

@@ -228,6 +228,9 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		- ((67fe5937-c362-4b22-9258-b83a1ea9c1f2)) [[Sleepiness]] [[NMA]] [[SW]]
 		- ((67fe5961-a954-49d4-9048-51aa7056810b)) [[SW]]
 		- ((67fe59eb-23f5-4b0f-8b36-6972d89ccd62)) [[SW]] [[NMA]]
+		- ((6807e066-1931-4588-8610-a7b46ead7a25))
+		- ((6807e0c5-bd12-475f-b620-64a8f1796a68))
+		- ![BOSS-Bordeaux-sleepiness-scale.pdf](../assets/BOSS-Bordeaux-sleepiness-scale_1745346968746_0.pdf)
 		- ((67fe5ae7-3d89-4055-8f85-2aff5e061437)) [[NMA]] [[Sleepiness]]
 		- ((67fe5abd-0ad4-4094-9fa3-acceb5d81c6b)) [[Employed]]
 		- ((67fe5ada-ab9b-4c9a-a3ad-e17cd60bf51a)) [[Distance]]

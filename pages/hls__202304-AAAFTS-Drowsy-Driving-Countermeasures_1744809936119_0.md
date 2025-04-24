@@ -16,3 +16,8 @@ file-path:: ../assets/202304-AAAFTS-Drowsy-Driving-Countermeasures_1744809936119
   hl-page:: 1
   hl-color:: yellow
   id:: 68024fd7-727b-46b1-881a-0b0c5e39b197
+- here is broad agreement across the traffic safety, sleep science, and public health communities that this is an underestimate of the impact of drowsy driving.
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 6809ec87-8b71-45ab-a6a0-8f0c7e33dc2b
