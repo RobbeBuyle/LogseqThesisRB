@@ -774,11 +774,12 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		- ((68024fd7-727b-46b1-881a-0b0c5e39b197)) [[Drowsiness]] [[Prevalence]]
 -
 - ## Te sorteren 🏷️
-- ![geriatrics-05-00080-v2.pdf](../assets/geriatrics-05-00080-v2_1744809915042_0.pdf)
+- ![geriatrics-05-00080-v2.pdf](../assets/geriatrics-05-00080-v2_1744809915042_0.pdf) [[33]]
 	- lezen als ik te weinig info heb over ouderdom
-- https://academic.oup.com/sleep/article-abstract/41/10/zsy144/5067408?redirectedFrom=fulltext&login=false
-- ![long-et-al-sleepy-tired-drowsy-and-fatigue-have-different-meanings-for-a-university-student-sample.pdf](../assets/long-et-al-sleepy-tired-drowsy-and-fatigue-have-different-meanings-for-a-university-student-sample_1745261711753_0.pdf)
--
+- https://academic.oup.com/sleep/article-abstract/41/10/zsy144/5067408?redirectedFrom=fulltext&login=false [[34]]
+- ![long-et-al-sleepy-tired-drowsy-and-fatigue-have-different-meanings-for-a-university-student-sample.pdf](../assets/long-et-al-sleepy-tired-drowsy-and-fatigue-have-different-meanings-for-a-university-student-sample_1745261711753_0.pdf) [[35]]
+- ![jsr.12267.pdf](../assets/jsr.12267_1745587353836_0.pdf) [[36]]
+- ![2010DrowsyDrivingReport.pdf](../assets/2010DrowsyDrivingReport_1745588532086_0.pdf) [[37]]
 - # Query logger
 - DONE Consensus: How does sleep impact risk of having a traffic accident?
 - DONE Perplexity: I'm researching the relationship between sleep related variables on traffic accidents. More specifically, I intend to use machine learning to predict having a traffic accident. What is the current literature around this subject, to know what variables I have to include
