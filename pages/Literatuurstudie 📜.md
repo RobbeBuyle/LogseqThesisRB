@@ -22,27 +22,27 @@
 	  logseq.order-list-type:: number
 	- DONE falling asleep behind wheel
 	  logseq.order-list-type:: number
-- TODO Sleepiness
+- DONE Sleepiness
   logseq.order-list-type:: number
-	- TODO TST/ sleep debt/ sleep deprivation
+	- DONE TST/ sleep debt/ sleep deprivation
 	  logseq.order-list-type:: number
-	- TODO time awake
+	- DONE Shift work/ jetlag
 	  logseq.order-list-type:: number
-	- TODO Shift work/ jetlag
+	- DONE BOSS scale
 	  logseq.order-list-type:: number
-- TODO Fatigue
+- DONE Fatigue
   logseq.order-list-type:: number
-	- TODO Depression
+	- DONE Depression
 	  logseq.order-list-type:: number
-	- TODO Driving time
+	- DONE Driving time
 	  logseq.order-list-type:: number
-	- TODO workload
+	- DONE workload
 	  logseq.order-list-type:: number
-- TODO Drowsiness
+- DONE Drowsiness
   logseq.order-list-type:: number
-	- TODO Falling asleep behind the wheel
+	- LATER Falling asleep behind the wheel
 	  logseq.order-list-type:: number
-	- TODO vision impairment (more closed eyelids)
+	- LATER vision impairment (more closed eyelids)
 	  logseq.order-list-type:: number
 - TODO Sleep disorders
   logseq.order-list-type:: number
@@ -76,6 +76,12 @@
 - Current literature indicates that sleep related factors contribute to MVAs in two major ways. Firstly, driving performance is significantly reduced when a persons sleep has been affected. Driving simulators are often used to evaluate driving performance in a controlled and safe environment [[21]] . Participants exhibit a significant increase in lateral lane deviations when sleep-deprived [[23]], a measure considered one of the most sensitive and important indicators of impaired driving performance under sleep deprivation [[21]][[15]]. Moreover, [[23]] found that psychomotor vigilance (PVT) was significantly impacted by sleep loss, which in turn significantly predicted certain components of simulated driving performance. Indeed, PVT lapses accounted for 9.9% of the variability in lane position, while 40% and 28% of the variance in speed variations could be predicted by PVT median RT and PVT fastest 10% accordingly. As a result, vigilance may play a crucial role in the decline of driving performance. Furthermore, a slower simulated braking response and more dangerous manoeuvers have also been observed in sleep deprived individuals. [[21]] [[22]] [[23]] Unfitting speed management has also been detected, with a significant increase in speed variability and mean speed. Interestingly, ... found that  sleep deprived individuals regularly tend to drive more slowly, presumably to compensate for their reduced vigilance. [[21]] An in-vivo experiment conducted by [[24]] yielded similar results, as sleep restriction resulted in significantly more interference from a co-pilot and inappropriate line crossings.
 - Secondly, falling asleep at the wheel has been identified as a significant contributor to sleep-related MVAs. In a survey conducted by The European Sleep Research Society in 19 different European countries, 17% of participants fell asleep at the wheel at least once within 2 years. [[36]] The National Highway Traffic Safety Administration (NHTSA) reported a lifetime prevalence rate of 37% for individuals who have ever fallen asleep or nodded off at the wheel, according to a 2002 survey. [[37]] Given the substantial advancements in driver monitoring systems and their increasing availability in modern vehicles, further research is needed to reassess the current prevalence of drowsy driving and to evaluate the impact and effectiveness of these technologies in preventing fatigue-related accidents. Falling asleep at the wheel accounts for 10–20% of automobile accidents, underlining the issue’s severity. [[19]]
 - ## Sleepiness
-- Sleepiness is significantly associated with MVAs. .... Importantly, a meta-analysis by [[3]] showed that daytime sleepiness as measured by the Epworth Sleepiness Scale (ESS) does not reflect the same type of sleepiness. Sleepiness at the wheel (SW) occurs in an active setting that demands sustained attention and high levels of alertness, while the ESS assesses sleepiness in passive, low-stimulation contexts. This discrepancy highlights the need for more nuanced and specific questionnaires. The Bordeaux Sleepiness Scale (BOSS) shows promising results, showing a significantly higher AUC than that of the ESS. [[19]]
--
+- Experiencing sleepiness while driving increases the risk of a MVA. [[19]] [[18]] [[14]] [[6]][[3]] [[4]]. In a meta-analysis, [[3]] found that sleepiness at the wheel is associated with a significantly increased risk of motor vehicle accidents, with a pooled odds ratio (OR) of 2.51 (95% confidence interval [CI]: 1.87–3.39). Importantly, the authors noted that daytime sleepiness as measured by the Epworth Sleepiness Scale (ESS) does not reflect the same type of sleepiness. Sleepiness at the wheel (SW) occurs in an active setting that demands sustained attention and high levels of alertness, while the ESS assesses sleepiness in passive, low-stimulation contexts. This discrepancy highlights the need for more nuanced and specific questionnaires. The significantly higher AUC of the Bordeaux Sleepiness Scale (BOSS) compared to that of the ESS is promising, but future research should be conducted on a broader sample of the general population to solidify its use as a preventative tool. [[19]]
+- Moreover, sleep deprivation was recognized as the leading contributor to sleepiness while driving [[21]]. Drivers who slept 4–5 hours had a 4.3-fold higher crash risk than those who slept at least 7 hours, with the risk rising to 11.5 times for those sleeping less than 4 hours; [[32]] drivers with under 2 hours of sleep are considered unfit to drive (Czeisler et al., 2016). Commercial drivers and shift or night workers often have limited sleep, making them a particularly high-risk group [[6]] [[21]] [[13]]. Most studies rely on subjective measures of Total Sleep Time (TST), leaving an opportunity for objective measurements such as polysomnography (PSG) to provide more robust evidence.
+- ## Fatigue
+- Fatigue has shown to be a major contributor to MVAs. [[29]][[2]] [[13]] [[12]] [[6]] [[14]] Individual differences in fatigue thresholds and tolerance remain relatively poorly understood [[6]], although factors such as time of day, prior wakefulness, sleep duration, depressive mood, and task-related characteristics appear to influence them. [[22]][[6]]. Notably, a study by [[24]] found that while perceived fatigue significantly increased with prolonged driving and wakefulness, self-reported fatigue scores were not associated with the frequency of inappropriate line crossings.
+- Fatigue is still a broad and vaguely-defined concept but, given its different counter-measures [[24]], warrants further research to distinguish these concepts better [[35]] [[22]]. A survey conducted among university students suggests that drowsiness should be considered a distinct construct [[35]] . Nevertheless, much of the existing literature uses the terms drowsiness and sleepiness interchangeably, often operationalizing drowsiness through ESS scores. [[2]]
+- ## Sleep disorders
+- Sleep disorders have been consistently associated with excessive daytime sleepiness and fatigue, both of which are critical factors contributing to an increased risk of MVAs. [[29]] [[6]] Their high prevalence and the rising rate of diagnoses in the adult population in the US underscore the importance of evaluating their impact on driving risk [[6]] [[38]].
+- Several studies suggest that drivers with Obstructive Sleep Apnea Syndrome (OSAS) have an increased risk of MVAs compared to drivers without the condition. [[1]] [[9]] [[29]] [[28]] [[4]] [[19]] Garbarino et al. found that truck drivers exhibit a high prevalence of obstructive sleep apnea (OSA), excessive daytime sleepiness (EDS), and sleep debt, with each condition independently associated with an increased risk of MVAs and near-miss accidents (NMAs). [[3]] Given that approximately one out of nine fatal traffic accidents involve trucks [[39]] , and the elevated risk factors (obesity, drinking, smoking and a lack of physical exercise) present among professional drivers, this population warrants special attention in road safety initiatives and further research focused on the identification, prevention, and management of sleep-related risks. Although some studies have found an positive correlation between Apnoea-Hypopnoea Index (AHI) and accident rates, it is unclear if AHI is a good indicator of OSA severity.[[]] Consequently, professional drivers could be unrightfully be targeted, since lawmakers and insurance companies around the globe make use of this metric.
 -

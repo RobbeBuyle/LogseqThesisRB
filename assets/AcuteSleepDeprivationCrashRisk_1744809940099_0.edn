@@ -729,4 +729,4 @@
                           :page 12},
                :content {:text "t should be noted that crashes examined in this study were more severe than average, because this study was based on analysis of data from a sample of crashes in which EMS was dispatched and at least one light vehicle was towed due to damage. Police reported that at least one person was injured in 77% of crashes in the study sample. By way of comparison, only 28% of all police-reported crashes nationwide in 2015 resulted in any reported injuries"},
                :properties {:color "green"}}],
- :extra {:page 3}}
+ :extra {:page 1}}

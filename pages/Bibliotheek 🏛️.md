@@ -124,7 +124,6 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		- ((67fd20dc-60ec-4c1e-a157-d1c2407c1285)) [[Sleepiness]]
 		- ((67fd211d-d8ab-4e18-98b6-58283e38bfd3)) [[Sex]]
 	- **Insomnia is associated with road accidents. Further evidence from a study on truck drivers** ![pone.0187256.pdf](../assets/pone.0187256_1744809926582_0.pdf) [[30]]
-	  collapsed:: true
 		- DOI: https://doi.org/10.1371/journal.pone.0187256
 		- ((6804d875-742b-4a4f-a962-0af8bb59f4eb)) [[Prevalence]]
 		- ((6804d887-77ab-4e16-b7c4-e163af488c91)) [[OSA]] [[Sleepiness]] [[MVA]]
@@ -138,6 +137,109 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 			- ((6804fae7-9914-4961-a651-6702f1572e90))
 		- ((6804fb01-eaab-4af7-84ae-81b20d38befe)) [[Insomnia]] [[Commercial drivers]] [[MVA]] [[NMA]]
 		- ((6804fb6e-5a93-4813-af49-c268c55b4001)) [[Commercial drivers]]
+		-
+	- **Sleep Disorders as a Cause of Motor Vehicle Collisions** ![IJPVM-4-246.pdf](../assets/IJPVM-4-246_1744809922383_0.pdf) [[29]]
+	  collapsed:: true
+		- PUBMED: https://pubmed.ncbi.nlm.nih.gov/23626880/
+		- ((68025465-e36c-4260-9a2d-683d8a41f4aa))[[Prevalence]] [[Sleep disorder]]
+		- ((68025474-024e-43fe-b7db-05a085c98b6f)) [[Fatigue]]
+		- ((680266b2-7942-4092-b95e-726beb0d7bc3)) [[Sleep deprivation]] [[Hypertension]] [[Obesity]] [[Diabetes]] [[Coronary disorder]] [[Cancer]]
+		- ((68026763-db36-4715-bf38-686713e4a209)) [[Prevalence]]
+		- ((6802678d-7356-472d-9b2f-8b204671706e)) [[Fatigue]]
+		- ((6802693b-1e22-42e2-981d-395fee1ed74e)) [[Fatigue]] [[MVA]]
+		- ((68026955-57fd-479b-ab01-4c22242b1fc4)) [[Prevalence]]
+		- ((6802696d-7c01-4479-865a-aafae130e182)) [[Age]] [[Sleepiness]]
+		- ((680269a1-402d-41e2-889b-606f59307f3b)) [[OSA]] [[Alcohol]]
+		- ((680269d4-e5d9-418c-831e-a140056319f4)) [[Alcohol]] #Interesting
+		- ((680269fd-f849-49a7-80d3-82c139218f64)) [[Sleepiness]] [[NMA]] [[Falling asleep behind wheel]]
+		- ((68026a30-5dcc-4ffb-8993-e5bf8f4b355e)) [[Age]] [[Sex]] [[Married]] [[Sleepiness]] [[Caffeine]] [[Depression]] [[Commercial drivers]]
+		- ((68026a5f-b3dc-41bd-a1ce-33b9529ea07f)) [[OSA]]
+			- ((68026a6d-3d84-4a9c-b316-e19566693ca8))
+			- ((68026a7e-0415-4bb6-950b-3119a2eac1c8))
+		- ((68026c1e-06fd-401d-a3d2-b03408449168)) [[OSA]]
+		- ((68026c50-9cd9-4f73-a78e-9ec09df7fcae)) [[OSA]]
+		- ((68026c77-6a10-47d2-be8d-24722456bc02)) [[OSA]] [[Sleepiness]] [[Intervention]]
+		- ((68026c97-dc76-4e3d-96ab-d78c09e0e4ac)) [[OSA]] [[Falling asleep behind wheel]]
+		- ((68026cb1-6d8e-4c03-a868-31c5b6bdecaf)) [[OSA]] [[Eye]] [[HRV]]
+		- ((68026d15-a1d4-44b8-b598-e16d2b76a99f)) [[Narcolepsy]] [[Hypersomnia]]
+		- ((68026d9f-99c9-491f-beaf-35d49a3650de)) [[Road type]] [[Time of day]]
+		- ((68026e65-07e3-4cf1-9a91-a7862c09d1dc)) [[NMA]] [[Sleepiness]] [[Narcolepsy]] [[Insomnia]] [[OSA]]
+		- ((68026e89-feb8-48f8-8245-4ed1df7f7537)) [[Narcolepsy]]
+		- ((68026e9f-16ec-403c-b73e-15064a5d3861)) [[Prevalence]] [[Falling asleep behind wheel]]
+		- ((68026ec8-135a-4354-b446-5aecf2e92a84)) [[Snoring]] [[Sleepiness]] [[Driving time]]
+		- ((68026f16-de3d-4025-8c6b-550e37b8d28f)) [[BMI]] [[Snoring]]
+		- ((68026f33-8629-4139-bfe9-caf16852a508)) [[Sleepiness]]
+		- ((68026f53-5711-4697-80dc-bc1c486c04fc)) [[Sleep quality]] [[Sleep fragmentation]] [[Fatigue]] [[Driving performance]]
+		- ((68026f92-f0a8-4f93-b754-a1825366ee6a)) [[Fatal]] [[Prevalence]]
+		- ((68026fc3-0e0e-47e6-9e90-74db6e1af0c1)) [[Lateral deviations]] [[Time of day]] [[Driving time]] [[Sleepiness]]
+		- ((68026ff7-8d39-4a41-a25a-fa5c26c10d00)) [[Driving time]] [[Alcohol]]
+		- ((6802700b-5239-458f-8a2d-7a647cb6e673)) [[Caffeine]] [[Rest breaks]]
+		- ((68027023-c3bf-447a-b2a5-ee9090b40e29)) [[Medication]]
+		- ((6802702f-066b-48b5-8cfa-3cf189f3899e)) [[Medication]]
+		- ((6802705f-720f-406d-98e9-760e0652dd92)) [[Impact]]
+		- ((6802707b-69c9-4b69-8663-a10301992c56)) [[OSA]]
+		- ((680270b7-add3-4778-b183-1b578da308db)) [[Intervention]]
+		- ((680270c7-beb6-4e8e-956a-7fcaefddab56)) [[Rest breaks]] [[Intervention]] [[Caffeine]]
+		- ((680270e4-4f77-43ec-a83d-5c68fd8ae283)) [[Shift work]] [[Insomnia]] [[Fatigue]] [[Sleepiness]]
+		- ((680270fe-ef31-41a1-8170-d73f828cf5f2)) [[Caffeine]]
+			- ((6802710a-4ca0-4f28-ac19-4f550f615ed8))
+		- ((68027130-ded2-4c54-a171-5ef08a91ad4a)) [[Physical exercise]]
+		- ((68027153-0b47-4860-9ead-51588ec1f475)) [[TST]]
+		-
+	- **Sleep disorders, medical conditions, and road accident risk** ![1-s2.0-S0001457509003182-main.pdf](../assets/1-s2.0-S0001457509003182-main_1743684951670_0.pdf) [[6]]
+	  collapsed:: true
+		- DOI: https://doi.org/10.1016/j.aap.2009.12.004
+		- ((67f64226-4f7c-492d-a1fa-20d0edc93b78)) [[Shift work]] [[Fatigue]] [[Sleep deprivation]] [[TST]]
+		- ((67f64269-b4e2-4281-888b-5716616ca7be)) [[PLMD]] [[Narcolepsy]] [[Insomnia]]
+		- ((67f6428d-46a7-4c8f-9f6f-4aafe0f082f9)) [[Sleepiness]] [[Fatigue]]
+		- ((67f642ae-20df-4094-9c15-1a653147b50a)) [[Falling asleep behind wheel]] [[Falling asleep driving incident]]
+			- ((67f642dc-9cb3-45fc-92a4-3eb04f149521))
+		- ((67f6440d-a0db-4dbf-b405-fc7d0c95b9d8)) [[Prevalence]]
+		- ((67f6441c-2c1e-4dda-9a48-246b64f6acea)) [[Drowsiness]] [[Fatal]]
+		- ((67f64437-1321-4a7a-b35e-e8e6632bc3e1)) [[Prevalence]]
+		- ((67f6444f-1ffb-4949-bb88-c006a2330949)) [[Age]]
+		- ((67f64464-4632-424c-ada7-b95211c5b888))
+		- ((67f64471-2656-4e3c-8a08-373c89047d31)) [[Time of day]]
+			- ((67f6449e-9dea-4c71-aebd-2d6e59aa149a))
+		- ((67f644da-ea06-4d0a-8869-33da1a66efac)) [[Time of day]] [[Age]]
+		- ((67f64508-1f51-4f78-b805-1696595bd2d1)) [[Time of day]] [[Age]]
+		- ((67f68761-ff62-4736-b6b0-5ed9b98f7a8a)) [[Fatigue]]
+		- ((67f687db-f634-47e6-b18b-80fc9e20ad18)) [[OSA]]
+		- ((67f6880a-1a4f-4cd0-b7e9-1a7e37b3da28)) [[OSA]]
+			- ((67f6881d-6e92-4d5e-89dc-9f787a0a3191))
+		- ((67f68a55-dcd2-47e4-bf03-0b42b233af69)) [[OSA]]
+		- ((67f7ba0b-f3ff-4588-925c-f73a4ca38aec)) [[OSA]] [[MVA]]
+		- ((67f7baa7-8c6c-40b2-81aa-1e62b7609fb2)) [[OSA]] [[Commercial drivers]]
+		- ((67f7bb4a-f7e7-4507-8bb7-64e661038bdc)) [[OSA]] [[MVA]]
+		- ((67f7bbe1-8865-40a0-ade5-5af19144dbbc)) [[Medication]] [[Commercial drivers]]
+		- ((67f7bc6a-f513-4e59-8eb3-2ee1b9458df5)) #Hiaat
+		- ((67f7bc8d-e741-4a0a-b481-1f0295e3abc1))
+		- ((67f7c28d-ff0a-4a31-aa51-25a0ebf21fb4)) [[OSA]]
+		- ((67f7c31e-0ffc-4498-ac01-ce34c3da4cc2)) [[OSA]]
+			- ((67f7c32b-6ef4-4721-8acb-7c7e3cab6e85))
+		- ((67f7c3b4-8c33-4fa3-99d1-b54a3e679772)) [[Prevalence]] [[OSA]] [[Impact]]
+		- ((67f7c3d2-3abb-49af-813d-f66f43606308)) [[Impact]] [[OSA]]
+		- ((67f7c426-5278-4816-8b40-621944a1ce77)) [[Hypersomnia]] [[Prevalence]]
+		- ((67f7c441-b3a8-485b-a4c1-3da2b1924985)) [[Narcolepsy]]
+		- ((67f7c453-5a44-4e6c-af8d-8591fbbebf03)) [[OSA]] [[Narcolepsy]]
+		- ((67f7c470-5f02-4511-af40-820e807eff9d)) [[Narcolepsy]]
+		- ((67f7c4b2-03e2-47ba-858e-6f6464a839b8)) [[PLMD]] [[RLS]]
+		- ((67f7c527-2a89-463a-9593-9e94420e6b70)) [[Psychosocial impact of altered health]]
+		- ((67f7c5e3-b228-479e-b24f-ac48fdb61836)) [[Rhinitis]]
+		- ((67f7c5fa-ad08-4f7d-a122-e05df6224d49)) [[Rhinitis]] [[OSA]]
+		- ((67f7c624-5699-4cbf-bb09-75d302c95bb9)) [[Rhinitis]] [[Medication]]
+		- ((67f7ccc3-c8b2-424a-91e1-1bb69c0a9460)) [[Asthma]]
+			- ((67f7ccdf-1c2b-4d51-9171-11d0338ff9bb))
+		- ((67f7cd1b-4fb7-4066-b006-b85f23b9e25e)) [[Pulmonary disease]]
+		- ((67f7cd66-6b38-4edd-9998-d4ddfbe5a444)) [[Pulmonary disease]]
+		- ((67f7cdc3-319e-45e4-96b6-c2c9a0b4c17b)) [[Pulmonary disease]]
+		- ((67f7cfc0-dbef-492a-bd6d-8c3776838fa8)) [[Rheumatoid arthritis]]
+		- ((67f7cfe4-f8e9-4cb0-8c9e-d137f7124b44)) [[Fatigue]] [[RA]]
+			- ((67f7d04f-46e8-4ad3-aae5-b9c96709ad40))
+		- ((67f7d0ae-f17e-427c-b476-4c397bdca051)) [[Chronic fatigue syndrome]]
+		- ((67f7d10e-7e46-402b-b99d-6154510c020f)) #Hiaat
+		-
+		-
 		-
 - ## Sleepiness
 	- **Sleepiness and the risk of road trafﬁc accidents: A systematic review and meta-analysis of previous studies** ![1-s2.0-S1369847817306290-main.pdf](../assets/1-s2.0-S1369847817306290-main_1743684868897_0.pdf) [[2]]
@@ -447,61 +549,6 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		-
 		-
 - ## Stavaza
-	- **Sleep disorders, medical conditions, and road accident risk** ![1-s2.0-S0001457509003182-main.pdf](../assets/1-s2.0-S0001457509003182-main_1743684951670_0.pdf) [[6]]
-	  collapsed:: true
-		- DOI: https://doi.org/10.1016/j.aap.2009.12.004
-		- ((67f64226-4f7c-492d-a1fa-20d0edc93b78)) [[Shift work]] [[Fatigue]] [[Sleep deprivation]] [[TST]]
-		- ((67f64269-b4e2-4281-888b-5716616ca7be)) [[PLMD]] [[Narcolepsy]] [[Insomnia]]
-		- ((67f6428d-46a7-4c8f-9f6f-4aafe0f082f9)) [[Sleepiness]] [[Fatigue]]
-		- ((67f642ae-20df-4094-9c15-1a653147b50a)) [[Falling asleep behind wheel]] [[Falling asleep driving incident]]
-			- ((67f642dc-9cb3-45fc-92a4-3eb04f149521))
-		- ((67f6440d-a0db-4dbf-b405-fc7d0c95b9d8)) [[Prevalence]]
-		- ((67f6441c-2c1e-4dda-9a48-246b64f6acea)) [[Drowsiness]] [[Fatal]]
-		- ((67f64437-1321-4a7a-b35e-e8e6632bc3e1)) [[Prevalence]]
-		- ((67f6444f-1ffb-4949-bb88-c006a2330949)) [[Age]]
-		- ((67f64464-4632-424c-ada7-b95211c5b888))
-		- ((67f64471-2656-4e3c-8a08-373c89047d31)) [[Time of day]]
-			- ((67f6449e-9dea-4c71-aebd-2d6e59aa149a))
-		- ((67f644da-ea06-4d0a-8869-33da1a66efac)) [[Time of day]] [[Age]]
-		- ((67f64508-1f51-4f78-b805-1696595bd2d1)) [[Time of day]] [[Age]]
-		- ((67f68761-ff62-4736-b6b0-5ed9b98f7a8a)) [[Fatigue]]
-		- ((67f687db-f634-47e6-b18b-80fc9e20ad18)) [[OSA]]
-		- ((67f6880a-1a4f-4cd0-b7e9-1a7e37b3da28)) [[OSA]]
-			- ((67f6881d-6e92-4d5e-89dc-9f787a0a3191))
-		- ((67f68a55-dcd2-47e4-bf03-0b42b233af69)) [[OSA]]
-		- ((67f7ba0b-f3ff-4588-925c-f73a4ca38aec)) [[OSA]] [[MVA]]
-		- ((67f7baa7-8c6c-40b2-81aa-1e62b7609fb2)) [[OSA]] [[Commercial drivers]]
-		- ((67f7bb4a-f7e7-4507-8bb7-64e661038bdc)) [[OSA]] [[MVA]]
-		- ((67f7bbe1-8865-40a0-ade5-5af19144dbbc)) [[Medication]] [[Commercial drivers]]
-		- ((67f7bc6a-f513-4e59-8eb3-2ee1b9458df5)) #Hiaat
-		- ((67f7bc8d-e741-4a0a-b481-1f0295e3abc1))
-		- ((67f7c28d-ff0a-4a31-aa51-25a0ebf21fb4)) [[OSA]]
-		- ((67f7c31e-0ffc-4498-ac01-ce34c3da4cc2)) [[OSA]]
-			- ((67f7c32b-6ef4-4721-8acb-7c7e3cab6e85))
-		- ((67f7c3b4-8c33-4fa3-99d1-b54a3e679772)) [[Prevalence]] [[OSA]] [[Impact]]
-		- ((67f7c3d2-3abb-49af-813d-f66f43606308)) [[Impact]] [[OSA]]
-		- ((67f7c426-5278-4816-8b40-621944a1ce77)) [[Hypersomnia]] [[Prevalence]]
-		- ((67f7c441-b3a8-485b-a4c1-3da2b1924985)) [[Narcolepsy]]
-		- ((67f7c453-5a44-4e6c-af8d-8591fbbebf03)) [[OSA]] [[Narcolepsy]]
-		- ((67f7c470-5f02-4511-af40-820e807eff9d)) [[Narcolepsy]]
-		- ((67f7c4b2-03e2-47ba-858e-6f6464a839b8)) [[PLMD]] [[RLS]]
-		- ((67f7c527-2a89-463a-9593-9e94420e6b70)) [[Psychosocial impact of altered health]]
-		- ((67f7c5e3-b228-479e-b24f-ac48fdb61836)) [[Rhinitis]]
-		- ((67f7c5fa-ad08-4f7d-a122-e05df6224d49)) [[Rhinitis]] [[OSA]]
-		- ((67f7c624-5699-4cbf-bb09-75d302c95bb9)) [[Rhinitis]] [[Medication]]
-		- ((67f7ccc3-c8b2-424a-91e1-1bb69c0a9460)) [[Asthma]]
-			- ((67f7ccdf-1c2b-4d51-9171-11d0338ff9bb))
-		- ((67f7cd1b-4fb7-4066-b006-b85f23b9e25e)) [[Pulmonary disease]]
-		- ((67f7cd66-6b38-4edd-9998-d4ddfbe5a444)) [[Pulmonary disease]]
-		- ((67f7cdc3-319e-45e4-96b6-c2c9a0b4c17b)) [[Pulmonary disease]]
-		- ((67f7cfc0-dbef-492a-bd6d-8c3776838fa8)) [[Rheumatoid arthritis]]
-		- ((67f7cfe4-f8e9-4cb0-8c9e-d137f7124b44)) [[Fatigue]] [[RA]]
-			- ((67f7d04f-46e8-4ad3-aae5-b9c96709ad40))
-		- ((67f7d0ae-f17e-427c-b476-4c397bdca051)) [[Chronic fatigue syndrome]]
-		- ((67f7d10e-7e46-402b-b99d-6154510c020f)) #Hiaat
-		-
-		-
-		-
 	- **Sleep-related Fatal Vehicle Accidents: Characteristics of Decisions Made by Multidisciplinary Investigation Teams** ![sleep%2F27.2.224.pdf](../assets/sleep_2F27.2.224_1743684992604_0.pdf) [[11]]
 	  collapsed:: true
 		- DOI: https://doi.org/10.1093/sleep/27.2.224
@@ -647,54 +694,6 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		- ((68024f11-1cab-499c-9d45-04e9e58082be)) [[Alcohol]] [[Medication]]
 		-
 		-
-	- **Sleep Disorders as a Cause of Motor Vehicle Collisions** ![IJPVM-4-246.pdf](../assets/IJPVM-4-246_1744809922383_0.pdf) [[29]]
-	  collapsed:: true
-		- PUBMED: https://pubmed.ncbi.nlm.nih.gov/23626880/
-		- ((68025465-e36c-4260-9a2d-683d8a41f4aa))[[Prevalence]] [[Sleep disorder]]
-		- ((68025474-024e-43fe-b7db-05a085c98b6f)) [[Fatigue]]
-		- ((680266b2-7942-4092-b95e-726beb0d7bc3)) [[Sleep deprivation]] [[Hypertension]] [[Obesity]] [[Diabetes]] [[Coronary disorder]] [[Cancer]]
-		- ((68026763-db36-4715-bf38-686713e4a209)) [[Prevalence]]
-		- ((6802678d-7356-472d-9b2f-8b204671706e)) [[Fatigue]]
-		- ((6802693b-1e22-42e2-981d-395fee1ed74e)) [[Fatigue]] [[MVA]]
-		- ((68026955-57fd-479b-ab01-4c22242b1fc4)) [[Prevalence]]
-		- ((6802696d-7c01-4479-865a-aafae130e182)) [[Age]] [[Sleepiness]]
-		- ((680269a1-402d-41e2-889b-606f59307f3b)) [[OSA]] [[Alcohol]]
-		- ((680269d4-e5d9-418c-831e-a140056319f4)) [[Alcohol]] #Interesting
-		- ((680269fd-f849-49a7-80d3-82c139218f64)) [[Sleepiness]] [[NMA]] [[Falling asleep behind wheel]]
-		- ((68026a30-5dcc-4ffb-8993-e5bf8f4b355e)) [[Age]] [[Sex]] [[Married]] [[Sleepiness]] [[Caffeine]] [[Depression]] [[Commercial drivers]]
-		- ((68026a5f-b3dc-41bd-a1ce-33b9529ea07f)) [[OSA]]
-			- ((68026a6d-3d84-4a9c-b316-e19566693ca8))
-			- ((68026a7e-0415-4bb6-950b-3119a2eac1c8))
-		- ((68026c1e-06fd-401d-a3d2-b03408449168)) [[OSA]]
-		- ((68026c50-9cd9-4f73-a78e-9ec09df7fcae)) [[OSA]]
-		- ((68026c77-6a10-47d2-be8d-24722456bc02)) [[OSA]] [[Sleepiness]] [[Intervention]]
-		- ((68026c97-dc76-4e3d-96ab-d78c09e0e4ac)) [[OSA]] [[Falling asleep behind wheel]]
-		- ((68026cb1-6d8e-4c03-a868-31c5b6bdecaf)) [[OSA]] [[Eye]] [[HRV]]
-		- ((68026d15-a1d4-44b8-b598-e16d2b76a99f)) [[Narcolepsy]] [[Hypersomnia]]
-		- ((68026d9f-99c9-491f-beaf-35d49a3650de)) [[Road type]] [[Time of day]]
-		- ((68026e65-07e3-4cf1-9a91-a7862c09d1dc)) [[NMA]] [[Sleepiness]] [[Narcolepsy]] [[Insomnia]] [[OSA]]
-		- ((68026e89-feb8-48f8-8245-4ed1df7f7537)) [[Narcolepsy]]
-		- ((68026e9f-16ec-403c-b73e-15064a5d3861)) [[Prevalence]] [[Falling asleep behind wheel]]
-		- ((68026ec8-135a-4354-b446-5aecf2e92a84)) [[Snoring]] [[Sleepiness]] [[Driving time]]
-		- ((68026f16-de3d-4025-8c6b-550e37b8d28f)) [[BMI]] [[Snoring]]
-		- ((68026f33-8629-4139-bfe9-caf16852a508)) [[Sleepiness]]
-		- ((68026f53-5711-4697-80dc-bc1c486c04fc)) [[Sleep quality]] [[Sleep fragmentation]] [[Fatigue]] [[Driving performance]]
-		- ((68026f92-f0a8-4f93-b754-a1825366ee6a)) [[Fatal]] [[Prevalence]]
-		- ((68026fc3-0e0e-47e6-9e90-74db6e1af0c1)) [[Lateral deviations]] [[Time of day]] [[Driving time]] [[Sleepiness]]
-		- ((68026ff7-8d39-4a41-a25a-fa5c26c10d00)) [[Driving time]] [[Alcohol]]
-		- ((6802700b-5239-458f-8a2d-7a647cb6e673)) [[Caffeine]] [[Rest breaks]]
-		- ((68027023-c3bf-447a-b2a5-ee9090b40e29)) [[Medication]]
-		- ((6802702f-066b-48b5-8cfa-3cf189f3899e)) [[Medication]]
-		- ((6802705f-720f-406d-98e9-760e0652dd92)) [[Impact]]
-		- ((6802707b-69c9-4b69-8663-a10301992c56)) [[OSA]]
-		- ((680270b7-add3-4778-b183-1b578da308db)) [[Intervention]]
-		- ((680270c7-beb6-4e8e-956a-7fcaefddab56)) [[Rest breaks]] [[Intervention]] [[Caffeine]]
-		- ((680270e4-4f77-43ec-a83d-5c68fd8ae283)) [[Shift work]] [[Insomnia]] [[Fatigue]] [[Sleepiness]]
-		- ((680270fe-ef31-41a1-8170-d73f828cf5f2)) [[Caffeine]]
-			- ((6802710a-4ca0-4f28-ac19-4f550f615ed8))
-		- ((68027130-ded2-4c54-a171-5ef08a91ad4a)) [[Physical exercise]]
-		- ((68027153-0b47-4860-9ead-51588ec1f475)) [[TST]]
-		-
 	- **Insomnia, hypnotic use, and road collisions: a population-based, 5-year cohort study** ![zsaa032.pdf](../assets/zsaa032_1744809932231_0.pdf) [[31]]
 	  collapsed:: true
 		- DOI: https://doi.org/10.1093/sleep/zsaa032
@@ -780,6 +779,9 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 - ![long-et-al-sleepy-tired-drowsy-and-fatigue-have-different-meanings-for-a-university-student-sample.pdf](../assets/long-et-al-sleepy-tired-drowsy-and-fatigue-have-different-meanings-for-a-university-student-sample_1745261711753_0.pdf) [[35]]
 - ![jsr.12267.pdf](../assets/jsr.12267_1745587353836_0.pdf) [[36]]
 - ![2010DrowsyDrivingReport.pdf](../assets/2010DrowsyDrivingReport_1745588532086_0.pdf) [[37]]
+- ![sleep.5972.pdf](../assets/sleep.5972_1745916807538_0.pdf) [[38]]
+- ![Dissanayake,Su.pdf](../assets/Dissanayake,Su_1745927868586_0.pdf) [[39]]
+- ![zsab030.pdf](../assets/zsab030_1745929298663_0.pdf) [[40]]
 - # Query logger
 - DONE Consensus: How does sleep impact risk of having a traffic accident?
 - DONE Perplexity: I'm researching the relationship between sleep related variables on traffic accidents. More specifically, I intend to use machine learning to predict having a traffic accident. What is the current literature around this subject, to know what variables I have to include
