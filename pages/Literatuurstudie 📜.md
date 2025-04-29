@@ -44,15 +44,15 @@
 	  logseq.order-list-type:: number
 	- LATER vision impairment (more closed eyelids)
 	  logseq.order-list-type:: number
-- TODO Sleep disorders
+- DONE Sleep disorders
   logseq.order-list-type:: number
-	- TODO OSA
+	- DONE OSA
 	  logseq.order-list-type:: number
-	- TODO Narcolepsy
+	- DONE Narcolepsy
 	  logseq.order-list-type:: number
-	- TODO Insomnia
+	- DONE Insomnia
 	  logseq.order-list-type:: number
-	- TODO RLS
+	- DONE RLS
 	  logseq.order-list-type:: number
 - TODO Other related variables
   logseq.order-list-type:: number
@@ -60,7 +60,7 @@
 	  logseq.order-list-type:: number
 	- TODO Age
 	  logseq.order-list-type:: number
-	- TODO Medication
+	- TODO Medication: farmaco insomnie -> slaperigheid
 	  logseq.order-list-type:: number
 - TODO Machine learning research
   logseq.order-list-type:: number
@@ -83,5 +83,8 @@
 - Fatigue is still a broad and vaguely-defined concept but, given its different counter-measures [[24]], warrants further research to distinguish these concepts better [[35]] [[22]]. A survey conducted among university students suggests that drowsiness should be considered a distinct construct [[35]] . Nevertheless, much of the existing literature uses the terms drowsiness and sleepiness interchangeably, often operationalizing drowsiness through ESS scores. [[2]]
 - ## Sleep disorders
 - Sleep disorders have been consistently associated with excessive daytime sleepiness and fatigue, both of which are critical factors contributing to an increased risk of MVAs. [[29]] [[6]] Their high prevalence and the rising rate of diagnoses in the adult population in the US underscore the importance of evaluating their impact on driving risk [[6]] [[38]].
-- Several studies suggest that drivers with Obstructive Sleep Apnea Syndrome (OSAS) have an increased risk of MVAs compared to drivers without the condition. [[1]] [[9]] [[29]] [[28]] [[4]] [[19]] Garbarino et al. found that truck drivers exhibit a high prevalence of obstructive sleep apnea (OSA), excessive daytime sleepiness (EDS), and sleep debt, with each condition independently associated with an increased risk of MVAs and near-miss accidents (NMAs). [[3]] Given that approximately one out of nine fatal traffic accidents involve trucks [[39]] , and the elevated risk factors (obesity, drinking, smoking and a lack of physical exercise) present among professional drivers, this population warrants special attention in road safety initiatives and further research focused on the identification, prevention, and management of sleep-related risks. Although some studies have found an positive correlation between Apnoea-Hypopnoea Index (AHI) and accident rates, it is unclear if AHI is a good indicator of OSA severity.[[]] Consequently, professional drivers could be unrightfully be targeted, since lawmakers and insurance companies around the globe make use of this metric.
--
+- Several studies suggest that drivers with Obstructive Sleep Apnea Syndrome (OSAS) have an increased risk of MVAs compared to drivers without the condition. [[1]] [[9]] [[29]] [[28]] [[4]] [[19]] Garbarino et al. found that truck drivers exhibit a high prevalence of obstructive sleep apnea (OSA), excessive daytime sleepiness (EDS), and sleep debt, with each condition independently associated with an increased risk of MVAs and near-miss accidents (NMAs). [[3]] Given that approximately one out of nine fatal traffic accidents involve trucks [[39]] , and the elevated risk factors (obesity, drinking, smoking and a lack of physical exercise) present among professional drivers, this population warrants special attention in road safety initiatives and further research focused on the identification, prevention, and management of sleep-related risks. Although some studies have found an positive correlation between Apnoea-Hypopnoea Index (AHI) and accident rates, it is unclear if AHI is a good indicator of OSA severity. [[12]] [[29]] [[13]] [[12]] [[1]] Consequently, professional drivers could be unrightfully be targeted, since lawmakers and insurance companies around the globe make use of this metric.
+- Insomnia, Primary insomnia is associated with impaired simulated driving performance
+- Insomnia is often accompanied by fatigue, reduced daytime alertness, and cognitive impairments, all of which can significantly lower quality of life [[6]] .These consequences of insomnia may contribute to accidents [[6]], and one study identified insomnia as an independent risk factor for both MVAs and NMAs [[30]] . Still, the particular element of insomnia that influences accident risk remains unknown. Moreover, primary insomnia is associated with impaired simulated driving performance in non-commerical drivers. Given the potential risks to road safety, particularly among professional drivers who have been found to score higher on insomnia indicators, screening for signs and symptoms of insomnia is strongly recommended.
+- Furthermore, research points to an increased accident risk among narcoleptic patients [[6]] [[13]] [[14]] [[29]].
+- Further research should be conducted on the relation between Periodic Limb Movement Disease (PLMD) and MVAs due to its scarcity. Although [[14]] haven't found an association, it is known that PLMD often induces EDS and somnolence, potentially increasing accident risk. [[6]]
