@@ -804,6 +804,7 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 - ![Dissanayake,Su.pdf](../assets/Dissanayake,Su_1745927868586_0.pdf) [[39]]
 - ![zsab030.pdf](../assets/zsab030_1745929298663_0.pdf) [[40]]
 - ![sleep.4012 (1).pdf](../assets/sleep.4012_(1)_1746017663361_0.pdf) [[44]]
+- ![s11136-014-0842-1.pdf](../assets/s11136-014-0842-1_1746025052759_0.pdf) [[45]]
 - # Query logger
 - DONE Consensus: How does sleep impact risk of having a traffic accident?
 - DONE Perplexity: I'm researching the relationship between sleep related variables on traffic accidents. More specifically, I intend to use machine learning to predict having a traffic accident. What is the current literature around this subject, to know what variables I have to include
