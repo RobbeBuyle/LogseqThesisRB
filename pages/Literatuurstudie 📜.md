@@ -52,15 +52,15 @@
 	  logseq.order-list-type:: number
 	- DONE Insomnia
 	  logseq.order-list-type:: number
+		- DONE Medication: farmaco insomnie -> slaperigheid
+		  logseq.order-list-type:: number
 	- DONE RLS
 	  logseq.order-list-type:: number
-- TODO Other related variables
+- DONE Age
   logseq.order-list-type:: number
-	- TODO Sex
+	- DONE Risk
 	  logseq.order-list-type:: number
-	- TODO Age
-	  logseq.order-list-type:: number
-	- TODO Medication: farmaco insomnie -> slaperigheid
+	- DONE biological changes
 	  logseq.order-list-type:: number
 - TODO Machine learning research
   logseq.order-list-type:: number
@@ -84,7 +84,13 @@
 - ## Sleep disorders
 - Sleep disorders have been consistently associated with excessive daytime sleepiness and fatigue, both of which are critical factors contributing to an increased risk of MVAs. [[29]] [[6]] Their high prevalence and the rising rate of diagnoses in the adult population in the US underscore the importance of evaluating their impact on driving risk [[6]] [[38]].
 - Several studies suggest that drivers with Obstructive Sleep Apnea Syndrome (OSAS) have an increased risk of MVAs compared to drivers without the condition. [[1]] [[9]] [[29]] [[28]] [[4]] [[19]] Garbarino et al. found that truck drivers exhibit a high prevalence of obstructive sleep apnea (OSA), excessive daytime sleepiness (EDS), and sleep debt, with each condition independently associated with an increased risk of MVAs and near-miss accidents (NMAs). [[3]] Given that approximately one out of nine fatal traffic accidents involve trucks [[39]] , and the elevated risk factors (obesity, drinking, smoking and a lack of physical exercise) present among professional drivers, this population warrants special attention in road safety initiatives and further research focused on the identification, prevention, and management of sleep-related risks. Although some studies have found an positive correlation between Apnoea-Hypopnoea Index (AHI) and accident rates, it is unclear if AHI is a good indicator of OSA severity. [[12]] [[29]] [[13]] [[12]] [[1]] Consequently, professional drivers could be unrightfully be targeted, since lawmakers and insurance companies around the globe make use of this metric.
-- Insomnia, Primary insomnia is associated with impaired simulated driving performance
-- Insomnia is often accompanied by fatigue, reduced daytime alertness, and cognitive impairments, all of which can significantly lower quality of life [[6]] .These consequences of insomnia may contribute to accidents [[6]], and one study identified insomnia as an independent risk factor for both MVAs and NMAs [[30]] . Still, the particular element of insomnia that influences accident risk remains unknown. Moreover, primary insomnia is associated with impaired simulated driving performance in non-commerical drivers. Given the potential risks to road safety, particularly among professional drivers who have been found to score higher on insomnia indicators, screening for signs and symptoms of insomnia is strongly recommended.
-- Furthermore, research points to an increased accident risk among narcoleptic patients [[6]] [[13]] [[14]] [[29]].
-- Further research should be conducted on the relation between Periodic Limb Movement Disease (PLMD) and MVAs due to its scarcity. Although [[14]] haven't found an association, it is known that PLMD often induces EDS and somnolence, potentially increasing accident risk. [[6]]
+- Insomnia is often accompanied by fatigue, reduced daytime alertness, and cognitive impairments, all of which can significantly lower quality of life [[6]] .These consequences of insomnia may contribute to accidents [[6]], and one study identified insomnia as an independent risk factor for both MVAs and NMAs [[30]] . Still, the particular element of insomnia that influences accident risk remains unknown. Moreover, primary insomnia is associated with impaired simulated driving performance in non-commerical drivers [[44]] . Additionally, many insomnia patients are prescribed hypnotics [[Needs ref.]], which also seem to carry a higher MVA risk. [[Needs ref.]] Given the potential risks to road safety, particularly among professional drivers who have been found to score higher on insomnia indicators, screening for signs and symptoms of insomnia is strongly recommended.
+- Furthermore, research points to an increased accident risk among narcoleptic patients [[6]] [[13]] [[14]] [[29]]. Further research should be conducted on the relation between Periodic Limb Movement Disease (PLMD) and MVAs due to its scarcity. Although [[14]] haven't found an association, it is known that PLMD often induces EDS and somnolence, potentially increasing accident risk. [[6]]
+- ## Age
+- Age appears to be associated with the occurrence of automobile accidents and may also moderate the relationship between sleep-related factors and accident risk. Some studies find younger drivers to be more at risk of MVA's than older drivers [[21]] [[26]] [[29]] [[31]] [[4]] [[2]] [[25]] [[12]] [[14]]. Importantly, driver experience, quality of health and medical conditions might have a mediating role in this effect. [[25]] Other studies suggest a second age-related peak in crash risk among older adults, who are involved in 14% of fatal crashes despite accounting for only 8% of total annual miles driven. [[25]] Perhaps frequent use of medication, along with cognitive, visual and physical impairments play a bigger role in accidents among older adults, as rates of drowsy-driving are low in persons aged ≥65, with only 4–6% having “dozed-off” while driving, versus 20–27% of all drivers.10,12,13
+  id:: 6810f7ab-aa0b-478a-8924-82b36ea490bd
+- Perhaps frequent medication use, along with cognitive, visual, and physical impairments, may play a greater role in accidents among older adults [[25]] [[26]] , as rates of drowsy driving are relatively low in this group. Only 4–6% of persons aged ≥65 report having dozed off while driving, compared to 20–27% of drivers overall. [[26]]
+- ## Previous machine learning research
+- This study will investigate and analyze factors contributing to the risk of automobile accidents, with particular intrest on sleep-related influences. Previous research that aims to explore the influence of multiple aspects of sleep on accident risk via machine learning (ML) is scarce. Previous authors have used ML to detect drowsiness through facial characteristics, physiological signals and/or driving-related performance metrics. [[15]] [[16]] A recent study conducted by [[41]] aimed to develop a model to evaluate the risk of crash among self-employed truck drivers. Sleepiness and Fatigue, measured by the ESS and Fatigue Severity Scale (FSS) respectively, had a concerningly large presence. Several ML algorithms were tested, with Support Vector Machine (SVM) showing the most promising results (Average accuracy = 83.58%, std = .0082). Extending this approach to the general driving population would provide valuable comparative insights. A more detailed analysis of the most influential variables within the model could enhance our understanding of the underlying mechanisms linking sleep-related factors to crash risk. In the case of SVM, SHapley Additive exPlanations (SHAP) or Local Interpretable Model-agnostic Explenations (LIME) are valuable tools to uncover the contribution of individual predictors. [[42]] [[43]]
+- Given the multifaceted nature of sleep-related contributors to motor vehicle accidents and the limited application of machine learning, advancing our understanding of these relationships is essential for developing targeted prevention strategies and improving road safety outcomes.
+-

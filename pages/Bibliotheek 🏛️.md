@@ -124,6 +124,7 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		- ((67fd20dc-60ec-4c1e-a157-d1c2407c1285)) [[Sleepiness]]
 		- ((67fd211d-d8ab-4e18-98b6-58283e38bfd3)) [[Sex]]
 	- **Insomnia is associated with road accidents. Further evidence from a study on truck drivers** ![pone.0187256.pdf](../assets/pone.0187256_1744809926582_0.pdf) [[30]]
+	  collapsed:: true
 		- DOI: https://doi.org/10.1371/journal.pone.0187256
 		- ((6804d875-742b-4a4f-a962-0af8bb59f4eb)) [[Prevalence]]
 		- ((6804d887-77ab-4e16-b7c4-e163af488c91)) [[OSA]] [[Sleepiness]] [[MVA]]
@@ -771,17 +772,38 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		- ((68024fa1-3f24-4dad-bd2d-9eeeed09e247)) [[Drowsiness]] [[Impact]] [[Prevalence]] [[Fatal]]
 		- ((68024fc3-aaa3-4f38-93a7-9fc82f972fe4)) #Hiaat
 		- ((68024fd7-727b-46b1-881a-0b0c5e39b197)) [[Drowsiness]] [[Prevalence]]
--
+	- **Risk of crashes among self-employed truck drivers: Prevalence evaluation using fatigue data and machine learning prediction models** ![1-s2.0-S0022437524001518-main.pdf](../assets/1-s2.0-S0022437524001518-main_1745999418742_0.pdf) [[41]] #Impactvol
+	  collapsed:: true
+		- DOI: https://doi.org/10.1016/j.jsr.2024.11.002
+		- ((6811eadf-6053-4b62-bdbc-5ec7df93d54d)) [[Commercial drivers]]
+		- ((6811eaf6-6eed-4609-9e62-260b2f745733)) [[Commercial drivers]] [[Driving time]]
+		- ((6811eb58-7a47-4400-8dbd-bf856662a664)) [[Commercial drivers]]
+		- ((6811eb76-ace9-45b0-9ec9-7660414019aa)) [[Circadian effect]] [[Rest breaks]] [[Driving time]] [[Fatigue]] [[Psychosocial impact of altered health]] [[Drugs]] [[Alcohol]]
+		- ((6811ebd8-0817-46ed-9d9e-e5b2bccd4213)) [[Commercial drivers]]
+		- ((6811ebed-d2ce-48a9-92ca-b100f7c6d3ce)) [[Cognitive impairment]] [[Memory]] [[RT]] [[Attention]]
+		- ((6811ec8f-e4f0-436c-a842-9081637b30b2)) [[ML]]
+			- ((6811ec9e-0b12-4328-b842-f95345369203)) mooie zin
+		- ((6811ecb8-d0e0-4161-9279-ddb0f85e1bdb)) -> omdat de dataset zo groot is, literatuurstudie gedaan om relevante variabelen eruit te nemen, en om resultaten van existing studies na te gaan
+		- ((6811ee35-3546-4c54-b961-692e77a55b42)) -> handig om te doen? #Interesting
+		- ((6811eee6-ad8b-4b04-b056-263eb4e85a06))
+		- ((6811ef32-30de-43c1-837b-54ced1141d08)) [[ML]]
+		- ((6811ef68-fdc6-4e99-9c2e-e57514f4034a))
+		- ((6811ef8b-876f-4080-b791-aed7d256e4f9))
+		- ((6811efa7-c707-4cf7-a470-cb10c01376a4)) #Interesting mooie zin
+		-
+	- ![1-s2.0-S0169260721006581-main.pdf](../assets/1-s2.0-S0169260721006581-main_1746017029592_0.pdf) [[42]]
+	- ![CBMS49503.2020.00009.pdf](../assets/CBMS49503.2020.00009_1746017147764_0.pdf) [[43]]
 - ## Te sorteren 🏷️
 - ![geriatrics-05-00080-v2.pdf](../assets/geriatrics-05-00080-v2_1744809915042_0.pdf) [[33]]
 	- lezen als ik te weinig info heb over ouderdom
-- https://academic.oup.com/sleep/article-abstract/41/10/zsy144/5067408?redirectedFrom=fulltext&login=false [[34]]
+- https://academic.oup.com/sleep/article-abstract/41/10/zsy144/067408?redirectedFrom=fulltext&login=false [[34]]
 - ![long-et-al-sleepy-tired-drowsy-and-fatigue-have-different-meanings-for-a-university-student-sample.pdf](../assets/long-et-al-sleepy-tired-drowsy-and-fatigue-have-different-meanings-for-a-university-student-sample_1745261711753_0.pdf) [[35]]
 - ![jsr.12267.pdf](../assets/jsr.12267_1745587353836_0.pdf) [[36]]
 - ![2010DrowsyDrivingReport.pdf](../assets/2010DrowsyDrivingReport_1745588532086_0.pdf) [[37]]
 - ![sleep.5972.pdf](../assets/sleep.5972_1745916807538_0.pdf) [[38]]
 - ![Dissanayake,Su.pdf](../assets/Dissanayake,Su_1745927868586_0.pdf) [[39]]
 - ![zsab030.pdf](../assets/zsab030_1745929298663_0.pdf) [[40]]
+- ![sleep.4012 (1).pdf](../assets/sleep.4012_(1)_1746017663361_0.pdf) [[44]]
 - # Query logger
 - DONE Consensus: How does sleep impact risk of having a traffic accident?
 - DONE Perplexity: I'm researching the relationship between sleep related variables on traffic accidents. More specifically, I intend to use machine learning to predict having a traffic accident. What is the current literature around this subject, to know what variables I have to include
