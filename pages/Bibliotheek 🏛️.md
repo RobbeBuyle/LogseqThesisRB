@@ -461,6 +461,7 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 			- ((67fcd4e5-dfb5-4f7d-8678-64385567ebbc)) [[Age]]
 		-
 	- **Epidemiology, Physiology and Clinical Approach to Sleepiness at the Wheel in OSA Patients: A Narrative Review** ![jcm-11-03691.pdf](../assets/jcm-11-03691_1743684959778_0.pdf) [[13]]
+	  id:: 67ee855c-4fcf-4999-8e88-bcdc339cd563
 	  collapsed:: true
 		- DOI: https://doi.org/10.3390/jcm11133691
 		- ((67fcd81b-32e5-4093-9394-ac7f5f405b90)) [[Fatigue]] [[Prevalence]]
@@ -522,7 +523,6 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		-
 - ## Commercial drivers
 	- **Sleep Apnea, Sleep Debt and Daytime Sleepiness Are Independently Associated with Road Accidents. A Cross-Sectional Study on Truck Drivers** ![file.pdf](../assets/file_1743684948205_0.pdf) [[5]]
-	  collapsed:: true
 		- DOI: https://doi.org/10.1371/journal.pone.0166262
 		- ((67f63415-a9fa-408a-be94-c43d81f01c0a)) [[Sleepiness]] [[Impact]]
 		- ((67f63430-543f-4335-b54f-26b7901775f5)) [[OSA]] [[Sleepiness]]
