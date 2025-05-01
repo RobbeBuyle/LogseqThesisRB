@@ -273,6 +273,7 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 	- **Risk of motor vehicle accidents related to sleepiness at the wheel: a systematic review and metaanalysis** ![SLEEP 2017-jul 28 vol. 40 iss. 10.pdf](../assets/SLEEP_2017-jul_28_vol._40_iss._10_1743684931515_0.pdf) [[3]]
 	  collapsed:: true
 		- DOI: https://doi.org/10.1093/sleep/zsx134
+		- CORRECTION: https://doi.org/10.1093/sleep/zsy075 (naam werd verkeerd gespeld haha)
 		- ((67efb060-10ef-43ad-a875-d4c188de9c8b)) [[Sleepiness]]
 		- ((67efb07e-2bc7-4820-b83b-658bd19899d0)) [[Impact]]
 		- ((67efb0e9-889f-4201-ac97-3d0bb3302783)) [[Impact]]
@@ -570,7 +571,6 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		-
 		-
 	- **A systematic review of studies investigating the impact of sleep deprivation on drivers’ physiology and driving performance** ![1-s2.0-S136984782400336X-main.pdf](../assets/1-s2.0-S136984782400336X-main_1744791039584_0.pdf) #Impactvol [[21]]
-	  collapsed:: true
 		- DOI: https://doi.org/10.1016/j.trf.2024.12.001
 		- ((67ffc400-f73e-4239-86c1-1d9c6aab97d4)) [[Impact]] [[Prevalence]]
 		- ((67ffc668-2e75-45d1-a91d-23701bf660dc))
