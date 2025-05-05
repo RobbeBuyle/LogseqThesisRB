@@ -2,4 +2,16 @@
 - # Variable impact
 - # Tools
 - # Concepts
--
+- # Notes: ML for absolute beginners (O. Theobald)
+	- Supervised ML
+		- known outcomes
+		- algoritme patronen laten voorspellen
+		- algoritmes: regressie, decision trees, k-nearest neighbors, neural networks, SVM
+	- Unsupervised ML
+		- machine uncovers hidden patterns
+	- training: 70/30 - 80/20 split -> training grootste deel!. andere deel is test data
+		- niet vergeten om eerst rows te randomiseren (functie in scikit learn)
+		- accuracy tseten -> mean absolute error (model.predict in scikit learn)
+		- cross validation: maximaliseren van availability of training data => lijkt nodig te zijn!
+			- kan exhaustief zijn of k-fold
+		-
