@@ -14,4 +14,13 @@
 		- accuracy tseten -> mean absolute error (model.predict in scikit learn)
 		- cross validation: maximaliseren van availability of training data => lijkt nodig te zijn!
 			- kan exhaustief zijn of k-fold
-		-
+	- Log regressie: all variables independent of each other -> wss niet het geval!
+		- hyperplane: minimal distance
+	- SVM: hyperplane maximal distance
+		- margin = distance hyperplane and nearest datapoint * 2
+		- less sensitive to anomalies
+	- ANN
+		- train model through supervised learning -> cost berekenen = back propagation
+	- decision trees
+		- gradient boost is vorm van random forst, waarbij er weight bij de iteraties worden gekoppeld die misclassified waren (maar terug een black box)
+	- hoge discrapancy test en train set -> indicatie voor overfitting
