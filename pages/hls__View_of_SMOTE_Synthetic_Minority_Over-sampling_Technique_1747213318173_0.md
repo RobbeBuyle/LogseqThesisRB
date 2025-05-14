@@ -1,0 +1,2 @@
+file:: [View_of_SMOTE_Synthetic_Minority_Over-sampling_Technique_1747213318173_0.pdf](../assets/View_of_SMOTE_Synthetic_Minority_Over-sampling_Technique_1747213318173_0.pdf)
+file-path:: ../assets/View_of_SMOTE_Synthetic_Minority_Over-sampling_Technique_1747213318173_0.pdf

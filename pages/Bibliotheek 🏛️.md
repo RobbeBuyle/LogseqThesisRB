@@ -523,6 +523,7 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		-
 - ## Commercial drivers
 	- **Sleep Apnea, Sleep Debt and Daytime Sleepiness Are Independently Associated with Road Accidents. A Cross-Sectional Study on Truck Drivers** ![file.pdf](../assets/file_1743684948205_0.pdf) [[5]]
+	  collapsed:: true
 		- DOI: https://doi.org/10.1371/journal.pone.0166262
 		- ((67f63415-a9fa-408a-be94-c43d81f01c0a)) [[Sleepiness]] [[Impact]]
 		- ((67f63430-543f-4335-b54f-26b7901775f5)) [[OSA]] [[Sleepiness]]
@@ -538,8 +539,6 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		- [[Smoking]] niet significant in hun model
 		- ((67f64000-04c3-44aa-9cab-f609d3b71f3e)) [[TST]] [[NMA]]
 		- ((67f6404d-f858-46c8-af3b-8e43aafd5a56)) [[Coffee]]
-		-
-		-
 	- **Not the same: How delivery, ride-hailing, and private riders’ roles influence safety behavior** ![1-s2.0-S0001457524003075-main.pdf](../assets/1-s2.0-S0001457524003075-main_1743684997975_0.pdf) [[17]]
 	  collapsed:: true
 		- DOI: https://doi.org/10.1016/j.aap.2024.107762
@@ -571,6 +570,7 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 		-
 		-
 	- **A systematic review of studies investigating the impact of sleep deprivation on drivers’ physiology and driving performance** ![1-s2.0-S136984782400336X-main.pdf](../assets/1-s2.0-S136984782400336X-main_1744791039584_0.pdf) #Impactvol [[21]]
+	  collapsed:: true
 		- DOI: https://doi.org/10.1016/j.trf.2024.12.001
 		- ((67ffc400-f73e-4239-86c1-1d9c6aab97d4)) [[Impact]] [[Prevalence]]
 		- ((67ffc668-2e75-45d1-a91d-23701bf660dc))
@@ -805,6 +805,10 @@ CLOCK: [2025-04-03 Thu 10:09:19]
 - ![zsab030.pdf](../assets/zsab030_1745929298663_0.pdf) [[40]]
 - ![sleep.4012 (1).pdf](../assets/sleep.4012_(1)_1746017663361_0.pdf) [[44]]
 - ![s11136-014-0842-1.pdf](../assets/s11136-014-0842-1_1746025052759_0.pdf) [[45]]
+- ![sleep.5152.pdf](../assets/sleep.5152_1746715834138_0.pdf) [[46]]
+- ![View of SMOTE_ Synthetic Minority Over-sampling Technique.pdf](../assets/View_of_SMOTE_Synthetic_Minority_Over-sampling_Technique_1747213318173_0.pdf) [[47]]
+- ![tkde.2008.239.pdf](../assets/tkde.2008.239_1747214910608_0.pdf) [[48]]
+- ![NIPS-2017-a-unified-approach-to-interpreting-model-predictions-Paper.pdf](../assets/NIPS-2017-a-unified-approach-to-interpreting-model-predictions-Paper_1747226425940_0.pdf) [[49]]
 - # Query logger
 - DONE Consensus: How does sleep impact risk of having a traffic accident?
 - DONE Perplexity: I'm researching the relationship between sleep related variables on traffic accidents. More specifically, I intend to use machine learning to predict having a traffic accident. What is the current literature around this subject, to know what variables I have to include

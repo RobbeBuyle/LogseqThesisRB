@@ -1,1 +1,17 @@
-- Given that 2 of the questions used in the BOSS are also used in the ESS, and we have this data, those questions will be used in our model to evaluate the BOSS questionnaire
+## Data
+	- SHHS
+		- The Sleep Heart Health Study (SHHS) is a multi-center cohort study implemented by the National Heart Lung & Blood Institute to investigate  cardiovascular and other consequences of OSAS and other sleep-disordered breathing (SDB). Between November 1, 1995 and January 31, 1998 6441 individuals (age 40 years or older) were recruited to take part in the first visit (SHHS-1), where an in-home PSG was obtained by trained and certified technicians. An interim follow-up visit was planned to complete several surveys. In a second visit (SHHS-2), another PSG was conducted among 3295 of the participants.
+		- The SHHS received approval from the institutional review board for research involving human participants, and all individuals provided written informed consent at the time they joined the study.
+	- Data used in this study
+		- In this study, only data from SHHS-1 and the interim follow-up visit will be used to avoid data leakage. The available literature was used to decide which features to include in the model. Table ... provides a summary of all the variables used.
+		- The target variable in the original dataset represents the number of automobile accidents a participant was involved in over the past year. For this study, this numeric variable will be recoded into a binary format indicating whether or not the participant experienced at least one accident in the recent year. The low frequency of participants reporting more than one accident during this period, and the improved interpretability and suitability for classification models merit this decision.
+		- To focus the analysis on relevant cases, only participants who reported being drivers were included. Driving status was determined based on participants' responses in the interim visit, where they were asked whether or not they drive. Non-drivers were excluded from the analysis.
+		- After applying these criteria, a summary of socio-demographic will be provided. Age, sex, education, marital status, smoking, alcohol use, drug use and driving frequency will be included.
+- ## Wat? ML
+	- In this study, Machine Learning (ML) techniques will be employed to predict the occurrence of automobile accidents within the current year based on a range of sleep-related variables. Beyond predictive modeling, the study will utilize various ML algorithms to identify and evaluate the relative importance of individual features within the model. This dual approach not only facilitates a deeper understanding of the relationship between sleep patterns and accident risk, but also holds potential clinical relevance by highlighting key sleep characteristics that may help the development of preventive strategies and targeted interventions.
+	- waarom?
+		- Unlike traditional methods that often assume linearity, ML enables the analysis of non-linear relationships, making it well-suited to capture the complex nature of sleep and the interactions among various sleep-related factors
+		- Furthermore, ML methods are capable of handeling large amounts of features, enabling the discovery of novel patterns and complex interactions that may remain undetected using traditional analytical approaches.
+		- Lastly, to our knowledge, ML has not been employed in prior research to assess feature importance in this context, thereby warranting the present study to explore its potential for uncovering key predictive factors related to MVAs.
+- ## Variables
+-
